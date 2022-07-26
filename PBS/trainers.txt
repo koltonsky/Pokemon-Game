@@ -13,6 +13,7 @@ Pokemon = GEODUDE,12
     Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
     AbilityIndex = 0
     IV = 20,20,20,20,20,20
+    EV = 252,0,252,0,0,0
 Pokemon = ONIX,14
     Name = Rocky
     Gender = male
