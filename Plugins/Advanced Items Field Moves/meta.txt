@@ -1,0 +1,6 @@
+Name	   = Advanced Items - Field Moves
+Version    = 1.1.0
+Essentials = 20.1
+Optional   = Following Pokemon EX
+Website    = https://reliccastle.com/resources/981/
+Credits    = Bergium, Moyo, Marin
