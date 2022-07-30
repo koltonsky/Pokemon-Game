@@ -74,7 +74,7 @@ if Item_RockSmash[:active]
   def pbRockSmash
     if !pbCanUseItem(Item_RockSmash)
       item_name = GameData::Item.get(Item_RockSmash[:internal_name]).name
-      pbMessage(_INTL("It's a rugged rock but a {1} may be able to smash it.",item_name))
+      pbMessage(_INTL("You can't cracky crack yet.",item_name))
       return false
     end
     item_name = GameData::Item.get(Item_RockSmash[:internal_name]).name
@@ -121,7 +121,7 @@ if Item_Cut[:active]
 
   def pbCut
     if !pbCanUseItem(Item_Cut)
-      pbMessage(_INTL("This tree looks like it can be cut down."))
+      pbMessage(_INTL("You can't snippy snip yet."))
       return false
     end
     item_name = GameData::Item.get(Item_Cut[:internal_name]).name
@@ -168,10 +168,10 @@ if Item_Strength[:active]
 
   def pbStrength
     if !pbCanUseItem(Item_Strength)
-      pbMessage(_INTL("It's a big boulder, but an item may be able to push it aside."))
+      pbMessage(_INTL("You haven't learned how to push yet..."))
       return false
     end
-    pbMessage(_INTL("It's a big boulder, but an item may be able to push it aside."))
+    pbMessage(_INTL("You haven't learned how to push yet..."))
     item_name = GameData::Item.get(Item_Strength[:internal_name]).name
     if pbConfirmMessage(_INTL("Would you like to use the {1}?", item_name))
       pbMessage(_INTL("{1} used the {2}!", $Trainer.name, item_name))
@@ -229,7 +229,7 @@ if Item_Surf[:active]
     return false if !$game_player.can_ride_vehicle_with_follower?
     if !pbCanUseItem(Item_Surf)
       item_name = GameData::Item.get(Item_Surf[:internal_name]).name
-      pbMessage(_INTL("You can't the {1} yet.", item_name))
+      pbMessage(_INTL("You can't splishy sploosh yet.", item_name))
       return false
     end
     if pbConfirmMessage(_INTL("The water is a deep blue...\nWould you like to surf on it?"))
@@ -305,7 +305,7 @@ if Item_Fly[:active]
   def aifmFly
     if !pbCanUseItem(Item_Fly)
       item_name = GameData::Item.get(Item_Fly[:internal_name]).name
-      pbMessage(_INTL("You can't the {1} yet.", item_name))
+      pbMessage(_INTL("You can't whoosh yet.", item_name))
       return false
     end
     ret = nil
@@ -426,7 +426,7 @@ if Item_Flash[:active]
   def areaFlash
     if !pbCanUseItem(Item_Flash)
       item_name = GameData::Item.get(Item_Flash[:internal_name]).name
-      pbMessage(_INTL("You can't the {1} yet.", item_name))
+      pbMessage(_INTL("You can't twinkle yet.", item_name))
       return false
     end
     darkness = $game_temp.darkness_sprite
@@ -870,7 +870,7 @@ if Item_Waterfall[:active]
 
   def pbWaterfall
     if !pbCanUseItem(Item_Waterfall)
-      pbMessage(_INTL("A wall of water is crashing down with a mighty roar."))
+      pbMessage(_INTL("You can't float up yet."))
       return false
     end
     if pbConfirmMessage(_INTL("It's a large waterfall. Would you like to use Waterfall?"))
@@ -1086,7 +1086,7 @@ if Item_RockClimb[:active]
 
   def aifmRockClimb
     if !pbCanUseItem(Item_RockClimb)
-      pbMessage(_INTL("The wall is very rocky. Could be climbed with the right equipment"))
+      pbMessage(_INTL("You don't know how to climb a V6 yet."))
       return false
     end
     if pbConfirmMessage(_INTL("The wall is very rocky.\nWould you like to use the {1}?", item_name))

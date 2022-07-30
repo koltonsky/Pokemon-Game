@@ -680,7 +680,7 @@ Description = A flower nectar obtained at Poni Meadow. It changes the form of ce
 [AIRBALLOON]
 Name = Air Balloon
 NamePlural = Air Balloons
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
@@ -689,7 +689,7 @@ Description = An item to be held by a Pokémon. The holder will float in the air
 [BRIGHTPOWDER]
 Name = Bright Powder
 NamePlural = Bright Powders
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
@@ -698,7 +698,7 @@ Description = An item to be held by a Pokémon. It casts a tricky glare that low
 [EVIOLITE]
 Name = Eviolite
 NamePlural = Eviolites
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_40
@@ -707,7 +707,7 @@ Description = A mysterious evolutionary lump. When held, it raises the Defense a
 [FLOATSTONE]
 Name = Float Stone
 NamePlural = Float Stones
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_30
@@ -716,7 +716,7 @@ Description = A very light stone. It reduces the weight of a Pokémon when held.
 [DESTINYKNOT]
 Name = Destiny Knot
 NamePlural = Destiny Knots
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
@@ -725,7 +725,7 @@ Description = A long, thin, bright-red string to be held by a Pokémon. If the h
 [ROCKYHELMET]
 Name = Rocky Helmet
 NamePlural = Rocky Helmets
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_60
@@ -734,7 +734,7 @@ Description = If the holder of this item takes damage, the attacker will also be
 [ASSAULTVEST]
 Name = Assault Vest
 NamePlural = Assault Vests
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_80
 Description = An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves.
@@ -742,7 +742,7 @@ Description = An item to be held by a Pokémon. This offensive vest raises Sp. D
 [SAFETYGOGGLES]
 Name = Safety Goggles
 NamePlural = Safety Goggles
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_80
@@ -751,7 +751,7 @@ Description = An item to be held by a Pokémon. They protect the holder from wea
 [PROTECTIVEPADS]
 Name = Protective Pads
 NamePlural = Protective Pads
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_30
@@ -760,7 +760,7 @@ Description = An item to be held by a Pokémon. They protect the holder from eff
 [HEAVYDUTYBOOTS]
 Name = Heavy-Duty Boots
 NamePlural = pairs of Heavy-Duty Boots
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_80
@@ -769,7 +769,7 @@ Description = These boots prevent the effects of traps set on the battlefield.
 [UTILITYUMBRELLA]
 Name = Utility Umbrella
 NamePlural = Utility Umbrellas
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_60
@@ -778,7 +778,7 @@ Description = An item to be held by a Pokémon. This sturdy umbrella protects th
 [EJECTBUTTON]
 Name = Eject Button
 NamePlural = Eject Buttons
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_30
@@ -787,7 +787,7 @@ Description = If the holder is hit by an attack, it will switch with another Pok
 [EJECTPACK]
 Name = Eject Pack
 NamePlural = Eject Packs
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_50
@@ -796,7 +796,7 @@ Description = An item to be held by a Pokémon. When the holder's stats are lowe
 [REDCARD]
 Name = Red Card
 NamePlural = Red Cards
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
@@ -805,7 +805,7 @@ Description = A card with a mysterious power. When the holder is struck by a foe
 [SHEDSHELL]
 Name = Shed Shell
 NamePlural = Shed Shells
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
@@ -814,7 +814,7 @@ Description = An item to be held by a Pokémon. This discarded carapace lets the
 [SMOKEBALL]
 Name = Smoke Ball
 NamePlural = Smoke Balls
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_30
@@ -863,7 +863,7 @@ Description = An item to be held by a Pokémon. It helps keep wild Pokémon away
 [CHOICEBAND]
 Name = Choice Band
 NamePlural = Choice Bands
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one move.
@@ -879,7 +879,7 @@ Description = An item to be held by a Pokémon. These curious glasses boost Sp. 
 [CHOICESCARF]
 Name = Choice Scarf
 NamePlural = Choice Scarves
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. This scarf boosts Speed but allows the use of only one move.
@@ -887,7 +887,7 @@ Description = An item to be held by a Pokémon. This scarf boosts Speed but allo
 [HEATROCK]
 Name = Heat Rock
 NamePlural = Heat Rocks
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_60
 Description = A Pokémon held item that extends the duration of the move Sunny Day used by the holder.
@@ -895,7 +895,7 @@ Description = A Pokémon held item that extends the duration of the move Sunny D
 [DAMPROCK]
 Name = Damp Rock
 NamePlural = Damp Rocks
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_60
 Description = A Pokémon held item that extends the duration of the move Rain Dance used by the holder.
@@ -903,7 +903,7 @@ Description = A Pokémon held item that extends the duration of the move Rain Da
 [SMOOTHROCK]
 Name = Smooth Rock
 NamePlural = Smooth Rocks
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_10
 Description = A Pokémon held item that extends the duration of the move Sandstorm used by the holder.
@@ -911,7 +911,7 @@ Description = A Pokémon held item that extends the duration of the move Sandsto
 [ICYROCK]
 Name = Icy Rock
 NamePlural = Icy Rocks
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_40
 Description = A Pokémon held item that extends the duration of the move Hail used by the holder.
@@ -919,7 +919,7 @@ Description = A Pokémon held item that extends the duration of the move Hail us
 [TERRAINEXTENDER]
 Name = Terrain Extender
 NamePlural = Terrain Extenders
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_60
 Description = An item to be held by a Pokémon. It extends the duration of the terrain caused by the holder.
@@ -927,7 +927,7 @@ Description = An item to be held by a Pokémon. It extends the duration of the t
 [LIGHTCLAY]
 Name = Light Clay
 NamePlural = Light Clays
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_30
 Description = An item to be held by a Pokémon. Protective moves like Light Screen and Reflect will be effective longer.
@@ -935,7 +935,7 @@ Description = An item to be held by a Pokémon. Protective moves like Light Scre
 [GRIPCLAW]
 Name = Grip Claw
 NamePlural = Grip Claws
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_90
 Description = A Pokémon held item that extends the duration of multiturn attacks like Bind and Wrap.
@@ -943,7 +943,7 @@ Description = A Pokémon held item that extends the duration of multiturn attack
 [BINDINGBAND]
 Name = Binding Band
 NamePlural = Binding Bands
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_30
@@ -952,7 +952,7 @@ Description = A band that increases the power of binding moves when held.
 [BIGROOT]
 Name = Big Root
 NamePlural = Big Roots
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_10
 Description = A Pokémon held item that boosts the power of HP-stealing moves to let the holder recover more HP.
@@ -960,7 +960,7 @@ Description = A Pokémon held item that boosts the power of HP-stealing moves to
 [BLACKSLUDGE]
 Name = Black Sludge
 NamePlural = Black Sludges
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_30
@@ -969,7 +969,7 @@ Description = A held item that gradually restores the HP of Poison-type Pokémon
 [LEFTOVERS]
 Name = Leftovers
 NamePlural = Leftovers
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. The holder's HP is gradually restored during battle.
@@ -977,7 +977,7 @@ Description = An item to be held by a Pokémon. The holder's HP is gradually res
 [SHELLBELL]
 Name = Shell Bell
 NamePlural = Shell Bells
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_30
 Description = An item to be held by a Pokémon. The holder's HP is restored a little every time it inflicts damage.
@@ -985,7 +985,7 @@ Description = An item to be held by a Pokémon. The holder's HP is restored a li
 [MENTALHERB]
 Name = Mental Herb
 NamePlural = Mental Herbs
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.
@@ -993,7 +993,7 @@ Description = An item to be held by a Pokémon. It snaps the holder out of infat
 [WHITEHERB]
 Name = White Herb
 NamePlural = White Herbs
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. It restores any lowered stat in battle. It can be used only once.
@@ -1001,7 +1001,7 @@ Description = An item to be held by a Pokémon. It restores any lowered stat in 
 [POWERHERB]
 Name = Power Herb
 NamePlural = Power Herbs
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_10
 Description = A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges up first.
@@ -1009,7 +1009,7 @@ Description = A single-use item to be held by a Pokémon. It allows the immediat
 [ABSORBBULB]
 Name = Absorb Bulb
 NamePlural = Absorb Bulbs
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_30
 Description = A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise.
@@ -1017,7 +1017,7 @@ Description = A consumable bulb. If the holder is hit by a Water-type move, its 
 [CELLBATTERY]
 Name = Cell Battery
 NamePlural = Cell Batteries
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_30
 Description = A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise.
@@ -1025,7 +1025,7 @@ Description = A consumable battery. If the holder is hit by an Electric-type mov
 [LUMINOUSMOSS]
 Name = Luminous Moss
 NamePlural = Luminous Mosses
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_30
 Description = An item to be held by a Pokémon. It boosts Sp. Def if hit by a Water-type attack. It can only be used once.
@@ -1033,7 +1033,7 @@ Description = An item to be held by a Pokémon. It boosts Sp. Def if hit by a Wa
 [SNOWBALL]
 Name = Snowball
 NamePlural = Snowballs
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_30
 Description = An item to be held by a Pokémon. It boosts Attack if hit by an Ice-type attack. It can only be used once.
@@ -1041,7 +1041,7 @@ Description = An item to be held by a Pokémon. It boosts Attack if hit by an Ic
 [WEAKNESSPOLICY]
 Name = Weakness Policy
 NamePlural = Weakness Policies
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_80
 Description = An item to be held by a Pokémon. The holder's Attack and Sp. Atk sharply increase if hit by a move it's weak to.
@@ -1049,7 +1049,7 @@ Description = An item to be held by a Pokémon. The holder's Attack and Sp. Atk 
 [BLUNDERPOLICY]
 Name = Blunder Policy
 NamePlural = Blunder Policies
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_80
 Description = Raises Speed sharply when a Pokémon misses with a move because of accuracy.
@@ -1057,7 +1057,7 @@ Description = Raises Speed sharply when a Pokémon misses with a move because of
 [THROATSPRAY]
 Name = Throat Spray
 NamePlural = Throat Sprays
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_30
 Description = Raises Sp. Atk when a Pokémon uses a sound-based move.
@@ -1065,7 +1065,7 @@ Description = Raises Sp. Atk when a Pokémon uses a sound-based move.
 [ADRENALINEORB]
 Name = Adrenaline Orb
 NamePlural = Adrenaline Orbs
-Pocket = 1
+Pocket = 7
 Price = 300
 Flags = Fling_30
 Description = An item to be held by a Pokémon. It boosts Speed when intimidated. It can be used only once.
@@ -1073,7 +1073,7 @@ Description = An item to be held by a Pokémon. It boosts Speed when intimidated
 [ROOMSERVICE]
 Name = Room Service
 NamePlural = Room Services
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_100
 Description = An item to be held by a Pokémon. Lowers Speed when Trick Room takes effect.
@@ -1081,7 +1081,7 @@ Description = An item to be held by a Pokémon. Lowers Speed when Trick Room tak
 [ELECTRICSEED]
 Name = Electric Seed
 NamePlural = Electric Seeds
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
@@ -1090,7 +1090,7 @@ Description = An item to be held by a Pokémon. It boosts Defense on Electric Te
 [GRASSYSEED]
 Name = Grassy Seed
 NamePlural = Grassy Seeds
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
@@ -1099,7 +1099,7 @@ Description = An item to be held by a Pokémon. It boosts Defense on Grassy Terr
 [MISTYSEED]
 Name = Misty Seed
 NamePlural = Misty Seeds
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
@@ -1108,7 +1108,7 @@ Description = An item to be held by a Pokémon. It boosts Sp. Def on Misty Terra
 [PSYCHICSEED]
 Name = Psychic Seed
 NamePlural = Psychic Seeds
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
@@ -1117,7 +1117,7 @@ Description = An item to be held by a Pokémon. It boosts Sp. Def on Psychic Ter
 [LIFEORB]
 Name = Life Orb
 NamePlural = Life Orbs
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_30
 Description = An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.
@@ -1125,7 +1125,7 @@ Description = An item to be held by a Pokémon. It boosts the power of moves, bu
 [EXPERTBELT]
 Name = Expert Belt
 NamePlural = Expert Belts
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. It is a well-worn belt that slightly boosts the power of supereffective moves.
@@ -1133,7 +1133,7 @@ Description = An item to be held by a Pokémon. It is a well-worn belt that slig
 [METRONOME]
 Name = Metronome
 NamePlural = Metronomes
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_30
@@ -1142,7 +1142,7 @@ Description = A Pokémon held item that boosts a move used consecutively. Its ef
 [MUSCLEBAND]
 Name = Muscle Band
 NamePlural = Muscle Bands
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. It is a headband that slightly boosts the power of physical moves.
@@ -1150,7 +1150,7 @@ Description = An item to be held by a Pokémon. It is a headband that slightly b
 [WISEGLASSES]
 Name = Wise Glasses
 NamePlural = Wise Glasses
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. It is a thick pair of glasses that slightly boosts the power of special moves.
@@ -1158,7 +1158,7 @@ Description = An item to be held by a Pokémon. It is a thick pair of glasses th
 [RAZORCLAW]
 Name = Razor Claw
 NamePlural = Razor Claws
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2500
 Flags = Fling_80
@@ -1167,7 +1167,7 @@ Description = An item to be held by a Pokémon. It is a sharply hooked claw that
 [SCOPELENS]
 Name = Scope Lens
 NamePlural = Scope Lenses
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_30
 Description = An item to be held by a Pokémon. It is a lens that boosts the holder's critical-hit ratio.
@@ -1175,7 +1175,7 @@ Description = An item to be held by a Pokémon. It is a lens that boosts the hol
 [WIDELENS]
 Name = Wide Lens
 NamePlural = Wide Lenses
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves.
@@ -1183,7 +1183,7 @@ Description = An item to be held by a Pokémon. It is a magnifying lens that sli
 [ZOOMLENS]
 Name = Zoom Lens
 NamePlural = Zoom Lenses
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. If the holder moves after its target, its accuracy will be boosted.
@@ -1191,7 +1191,7 @@ Description = An item to be held by a Pokémon. If the holder moves after its ta
 [KINGSROCK]
 Name = King's Rock
 NamePlural = King's Rocks
-Pocket = 1
+Pocket = 7
 Price = 5000
 Flags = Fling_30
 Description = An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.
@@ -1199,7 +1199,7 @@ Description = An item to be held by a Pokémon. When the holder inflicts damage,
 [RAZORFANG]
 Name = Razor Fang
 NamePlural = Razor Fangs
-Pocket = 1
+Pocket = 7
 Price = 5000
 Flags = Fling_30
 Description = An item to be held by a Pokémon. It may make foes and allies flinch when the holder inflicts damage.
@@ -1207,7 +1207,7 @@ Description = An item to be held by a Pokémon. It may make foes and allies flin
 [LAGGINGTAIL]
 Name = Lagging Tail
 NamePlural = Lagging Tails
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.
@@ -1215,7 +1215,7 @@ Description = An item to be held by a Pokémon. It is tremendously heavy and mak
 [QUICKCLAW]
 Name = Quick Claw
 NamePlural = Quick Claws
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_80
@@ -1224,7 +1224,7 @@ Description = An item to be held by a Pokémon. A light, sharp claw that lets th
 [FOCUSBAND]
 Name = Focus Band
 NamePlural = Focus Bands
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
@@ -1233,7 +1233,7 @@ Description = An item to be held by a Pokémon. The holder may endure a potentia
 [FOCUSSASH]
 Name = Focus Sash
 NamePlural = Focus Sashes
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
@@ -1242,7 +1242,7 @@ Description = An item to be held by a Pokémon. If it has full HP, the holder wi
 [FLAMEORB]
 Name = Flame Orb
 NamePlural = Flame Orbs
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_30
 Description = An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.
@@ -1250,7 +1250,7 @@ Description = An item to be held by a Pokémon. It is a bizarre orb that inflict
 [TOXICORB]
 Name = Toxic Orb
 NamePlural = Toxic Orbs
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_30
 Description = An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle.
@@ -1258,7 +1258,7 @@ Description = An item to be held by a Pokémon. It is a bizarre orb that badly p
 [STICKYBARB]
 Name = Sticky Barb
 NamePlural = Sticky Barbs
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_80
 Description = A held item that damages the holder on every turn. It may latch on to Pokémon that touch the holder.
@@ -1266,7 +1266,7 @@ Description = A held item that damages the holder on every turn. It may latch on
 [IRONBALL]
 Name = Iron Ball
 NamePlural = Iron Balls
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_130
 Description = A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.
@@ -1274,7 +1274,7 @@ Description = A Pokémon held item that cuts Speed. It makes Flying-type and lev
 [RINGTARGET]
 Name = Ring Target
 NamePlural = Ring Targets
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
@@ -1283,7 +1283,7 @@ Description = Moves that would otherwise have no effect will land on the Pokémo
 [MACHOBRACE]
 Name = Macho Brace
 NamePlural = Macho Braces
-Pocket = 1
+Pocket = 7
 Price = 3000
 Flags = Fling_60
 Description = An item to be held by a Pokémon. It is a stiff, heavy brace that promotes strong growth but lowers Speed.
@@ -1291,7 +1291,7 @@ Description = An item to be held by a Pokémon. It is a stiff, heavy brace that 
 [POWERWEIGHT]
 Name = Power Weight
 NamePlural = Power Weights
-Pocket = 1
+Pocket = 7
 Price = 3000
 Flags = Fling_70
 Description = A Pokémon held item that promotes HP gain on leveling, but reduces the Speed stat.
@@ -1299,7 +1299,7 @@ Description = A Pokémon held item that promotes HP gain on leveling, but reduce
 [POWERBRACER]
 Name = Power Bracer
 NamePlural = Power Bracers
-Pocket = 1
+Pocket = 7
 Price = 3000
 Flags = Fling_70
 Description = A Pokémon held item that promotes Attack gain on leveling, but reduces the Speed stat.
@@ -1307,7 +1307,7 @@ Description = A Pokémon held item that promotes Attack gain on leveling, but re
 [POWERBELT]
 Name = Power Belt
 NamePlural = Power Belts
-Pocket = 1
+Pocket = 7
 Price = 3000
 Flags = Fling_70
 Description = A Pokémon held item that promotes Defense gain on leveling, but reduces the Speed stat.
@@ -1315,7 +1315,7 @@ Description = A Pokémon held item that promotes Defense gain on leveling, but r
 [POWERLENS]
 Name = Power Lens
 NamePlural = Power Lenses
-Pocket = 1
+Pocket = 7
 Price = 3000
 Flags = Fling_70
 Description = A Pokémon held item that promotes Sp. Atk gain on leveling, but reduces the Speed stat.
@@ -1323,7 +1323,7 @@ Description = A Pokémon held item that promotes Sp. Atk gain on leveling, but r
 [POWERBAND]
 Name = Power Band
 NamePlural = Power Bands
-Pocket = 1
+Pocket = 7
 Price = 3000
 Flags = Fling_70
 Description = A Pokémon held item that promotes Sp. Def gain on leveling, but reduces the Speed stat.
@@ -1331,7 +1331,7 @@ Description = A Pokémon held item that promotes Sp. Def gain on leveling, but r
 [POWERANKLET]
 Name = Power Anklet
 NamePlural = Power Anklets
-Pocket = 1
+Pocket = 7
 Price = 3000
 Flags = Fling_70
 Description = A Pokémon held item that promotes Speed gain on leveling, but reduces the Speed stat.
@@ -1339,7 +1339,7 @@ Description = A Pokémon held item that promotes Speed gain on leveling, but red
 [LAXINCENSE]
 Name = Lax Incense
 NamePlural = Lax Incenses
-Pocket = 1
+Pocket = 7
 Price = 5000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. The tricky aroma of this incense may make attacks miss the holder.
@@ -1347,7 +1347,7 @@ Description = An item to be held by a Pokémon. The tricky aroma of this incense
 [FULLINCENSE]
 Name = Full Incense
 NamePlural = Full Incenses
-Pocket = 1
+Pocket = 7
 Price = 5000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. This exotic-smelling incense makes the holder bloated and slow moving.
@@ -1355,7 +1355,7 @@ Description = An item to be held by a Pokémon. This exotic-smelling incense mak
 [LUCKINCENSE]
 Name = Luck Incense
 NamePlural = Luck Incenses
-Pocket = 1
+Pocket = 7
 Price = 11000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in.
@@ -1363,7 +1363,7 @@ Description = An item to be held by a Pokémon. It doubles a battle's prize mone
 [PUREINCENSE]
 Name = Pure Incense
 NamePlural = Pure Incenses
-Pocket = 1
+Pocket = 7
 Price = 6000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.
@@ -1371,7 +1371,7 @@ Description = An item to be held by a Pokémon. It helps keep wild Pokémon away
 [SEAINCENSE]
 Name = Sea Incense
 NamePlural = Sea Incenses
-Pocket = 1
+Pocket = 7
 Price = 2000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. It has a curious aroma that boosts the power of Water-type moves.
@@ -1379,7 +1379,7 @@ Description = An item to be held by a Pokémon. It has a curious aroma that boos
 [WAVEINCENSE]
 Name = Wave Incense
 NamePlural = Wave Incenses
-Pocket = 1
+Pocket = 7
 Price = 2000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. It has a curious aroma that boosts the power of Water-type moves.
@@ -1387,7 +1387,7 @@ Description = An item to be held by a Pokémon. It has a curious aroma that boos
 [ROSEINCENSE]
 Name = Rose Incense
 NamePlural = Rose Incenses
-Pocket = 1
+Pocket = 7
 Price = 2000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Grass-type moves.
@@ -1395,7 +1395,7 @@ Description = An item to be held by a Pokémon. This exotic-smelling incense boo
 [ODDINCENSE]
 Name = Odd Incense
 NamePlural = Odd Incenses
-Pocket = 1
+Pocket = 7
 Price = 2000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Psychic-type moves.
@@ -1403,7 +1403,7 @@ Description = An item to be held by a Pokémon. This exotic-smelling incense boo
 [ROCKINCENSE]
 Name = Rock Incense
 NamePlural = Rock Incenses
-Pocket = 1
+Pocket = 7
 Price = 2000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Rock-type moves.
@@ -1411,7 +1411,7 @@ Description = An item to be held by a Pokémon. This exotic-smelling incense boo
 [CHARCOAL]
 Name = Charcoal
 NamePlural = Charcoals
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
@@ -1420,7 +1420,7 @@ Description = An item to be held by a Pokémon. It is a combustible fuel that bo
 [MYSTICWATER]
 Name = Mystic Water
 NamePlural = Mystic Waters
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
@@ -1429,7 +1429,7 @@ Description = An item to be held by a Pokémon. It is a teardrop-shaped gem that
 [MAGNET]
 Name = Magnet
 NamePlural = Magnets
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
@@ -1438,7 +1438,7 @@ Description = An item to be held by a Pokémon. It is a powerful magnet that boo
 [MIRACLESEED]
 Name = Miracle Seed
 NamePlural = Miracle Seeds
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
@@ -1447,7 +1447,7 @@ Description = An item to be held by a Pokémon. It is a seed imbued with life th
 [NEVERMELTICE]
 Name = Never-Melt Ice
 NamePlural = Never-Melt Ices
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
@@ -1456,7 +1456,7 @@ Description = An item to be held by a Pokémon. It is a piece of ice that repels
 [BLACKBELT]
 Name = Black Belt
 NamePlural = Black Belts
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
@@ -1465,7 +1465,7 @@ Description = An item to be held by a Pokémon. It is a belt that boosts determi
 [POISONBARB]
 Name = Poison Barb
 NamePlural = Poison Barbs
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_70
@@ -1474,7 +1474,7 @@ Description = An item to be held by a Pokémon. It is a small, poisonous barb th
 [SOFTSAND]
 Name = Soft Sand
 NamePlural = Soft Sand
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_10
@@ -1483,7 +1483,7 @@ Description = An item to be held by a Pokémon. It is a loose, silky sand that b
 [SHARPBEAK]
 Name = Sharp Beak
 NamePlural = Sharp Beaks
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_50
@@ -1492,7 +1492,7 @@ Description = An item to be held by a Pokémon. It is a long, sharp beak that bo
 [TWISTEDSPOON]
 Name = Twisted Spoon
 NamePlural = Twisted Spoons
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
@@ -1501,7 +1501,7 @@ Description = An item to be held by a Pokémon. It is a spoon imbued with teleki
 [SILVERPOWDER]
 Name = Silver Powder
 NamePlural = Silver Powders
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_10
@@ -1510,7 +1510,7 @@ Description = An item to be held by a Pokémon. It is a shiny, silver powder tha
 [HARDSTONE]
 Name = Hard Stone
 NamePlural = Hard Stones
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_100
@@ -1519,7 +1519,7 @@ Description = An item to be held by a Pokémon. It is an unbreakable stone that 
 [SPELLTAG]
 Name = Spell Tag
 NamePlural = Spell Tags
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
@@ -1528,7 +1528,7 @@ Description = An item to be held by a Pokémon. It is a sinister, eerie tag that
 [DRAGONFANG]
 Name = Dragon Fang
 NamePlural = Dragon Fangs
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_70
@@ -1537,7 +1537,7 @@ Description = An item to be held by a Pokémon. It is a hard and sharp fang that
 [BLACKGLASSES]
 Name = Black Glasses
 NamePlural = Black Glasses
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
@@ -1546,7 +1546,7 @@ Description = An item to be held by a Pokémon. It is a shady-looking pair of gl
 [METALCOAT]
 Name = Metal Coat
 NamePlural = Metal Coats
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 1000
 Flags = Fling_30
@@ -1555,7 +1555,7 @@ Description = An item to be held by a Pokémon. It is a special metallic film th
 [SILKSCARF]
 Name = Silk Scarf
 NamePlural = Silk Scarves
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 500
 Flags = Fling_10
@@ -1564,7 +1564,7 @@ Description = An item to be held by a Pokémon. It is a sumptuous scarf that boo
 [FLAMEPLATE]
 Name = Flame Plate
 NamePlural = Flame Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1573,7 +1573,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [SPLASHPLATE]
 Name = Splash Plate
 NamePlural = Splash Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1582,7 +1582,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [ZAPPLATE]
 Name = Zap Plate
 NamePlural = Zap Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1591,7 +1591,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [MEADOWPLATE]
 Name = Meadow Plate
 NamePlural = Meadow Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1600,7 +1600,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [ICICLEPLATE]
 Name = Icicle Plate
 NamePlural = Icicle Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1609,7 +1609,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [FISTPLATE]
 Name = Fist Plate
 NamePlural = Fist Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1618,7 +1618,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [TOXICPLATE]
 Name = Toxic Plate
 NamePlural = Toxic Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1627,7 +1627,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [EARTHPLATE]
 Name = Earth Plate
 NamePlural = Earth Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1636,7 +1636,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [SKYPLATE]
 Name = Sky Plate
 NamePlural = Sky Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1645,7 +1645,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [MINDPLATE]
 Name = Mind Plate
 NamePlural = Mind Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1654,7 +1654,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [INSECTPLATE]
 Name = Insect Plate
 NamePlural = Insect Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1663,7 +1663,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [STONEPLATE]
 Name = Stone Plate
 NamePlural = Stone Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1672,7 +1672,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [SPOOKYPLATE]
 Name = Spooky Plate
 NamePlural = Spooky Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1681,7 +1681,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [DRACOPLATE]
 Name = Draco Plate
 NamePlural = Draco Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1690,7 +1690,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [DREADPLATE]
 Name = Dread Plate
 NamePlural = Dread Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1699,7 +1699,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [IRONPLATE]
 Name = Iron Plate
 NamePlural = Iron Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1708,7 +1708,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [PIXIEPLATE]
 Name = Pixie Plate
 NamePlural = Pixie Plates
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 500
 Flags = Fling_90
@@ -1717,7 +1717,7 @@ Description = An item to be held by a Pokémon. It is a stone tablet that boosts
 [FIREGEM]
 Name = Fire Gem
 NamePlural = Fire Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an essence of fire. When held, it strengthens the power of a Fire-type move only once.
@@ -1725,7 +1725,7 @@ Description = A gem with an essence of fire. When held, it strengthens the power
 [WATERGEM]
 Name = Water Gem
 NamePlural = Water Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an essence of water. When held, it strengthens the power of a Water-type move only once.
@@ -1733,7 +1733,7 @@ Description = A gem with an essence of water. When held, it strengthens the powe
 [ELECTRICGEM]
 Name = Electric Gem
 NamePlural = Electric Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an essence of electricity. When held, it strengthens the power of an Electric-type move only once.
@@ -1741,7 +1741,7 @@ Description = A gem with an essence of electricity. When held, it strengthens th
 [GRASSGEM]
 Name = Grass Gem
 NamePlural = Grass Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an essence of nature. When held, it strengthens the power of a Grass-type move only once.
@@ -1749,7 +1749,7 @@ Description = A gem with an essence of nature. When held, it strengthens the pow
 [ICEGEM]
 Name = Ice Gem
 NamePlural = Ice Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an essence of ice. When held, it strengthens the power of an Ice-type move only once.
@@ -1757,7 +1757,7 @@ Description = A gem with an essence of ice. When held, it strengthens the power 
 [FIGHTINGGEM]
 Name = Fighting Gem
 NamePlural = Fighting Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an essence of combat. When held, it strengthens the power of a Fighting-type move only once.
@@ -1765,7 +1765,7 @@ Description = A gem with an essence of combat. When held, it strengthens the pow
 [POISONGEM]
 Name = Poison Gem
 NamePlural = Poison Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an essence of poison. When held, it strengthens the power of a Poison-type move only once.
@@ -1773,7 +1773,7 @@ Description = A gem with an essence of poison. When held, it strengthens the pow
 [GROUNDGEM]
 Name = Ground Gem
 NamePlural = Ground Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an essence of land. When held, it strengthens the power of a Ground-type move only once.
@@ -1781,7 +1781,7 @@ Description = A gem with an essence of land. When held, it strengthens the power
 [FLYINGGEM]
 Name = Flying Gem
 NamePlural = Flying Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an essence of air. When held, it strengthens the power of a Flying-type move only once.
@@ -1789,7 +1789,7 @@ Description = A gem with an essence of air. When held, it strengthens the power 
 [PSYCHICGEM]
 Name = Psychic Gem
 NamePlural = Psychic Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an essence of the mind. When held, it strengthens the power of a Psychic-type move only once.
@@ -1797,7 +1797,7 @@ Description = A gem with an essence of the mind. When held, it strengthens the p
 [BUGGEM]
 Name = Bug Gem
 NamePlural = Bug Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an insect-like essence. When held, it strengthens the power of a Bug-type move only once.
@@ -1805,7 +1805,7 @@ Description = A gem with an insect-like essence. When held, it strengthens the p
 [ROCKGEM]
 Name = Rock Gem
 NamePlural = Rock Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an essence of rock. When held, it strengthens the power of a Rock-type move only once.
@@ -1813,7 +1813,7 @@ Description = A gem with an essence of rock. When held, it strengthens the power
 [GHOSTGEM]
 Name = Ghost Gem
 NamePlural = Ghost Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with a spectral essence. When held, it strengthens the power of a Ghost-type move only once.
@@ -1821,7 +1821,7 @@ Description = A gem with a spectral essence. When held, it strengthens the power
 [DRAGONGEM]
 Name = Dragon Gem
 NamePlural = Dragon Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move only once.
@@ -1837,7 +1837,7 @@ Description = A gem with an essence of darkness. When held, it strengthens the p
 [STEELGEM]
 Name = Steel Gem
 NamePlural = Steel Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an essence of steel. When held, it strengthens the power of a Steel-type move only once.
@@ -1845,7 +1845,7 @@ Description = A gem with an essence of steel. When held, it strengthens the powe
 [FAIRYGEM]
 Name = Fairy Gem
 NamePlural = Fairy Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an essence of the fey. When held, it strengthens the power of a Fairy-type move only once.
@@ -1853,7 +1853,7 @@ Description = A gem with an essence of the fey. When held, it strengthens the po
 [NORMALGEM]
 Name = Normal Gem
 NamePlural = Normal Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move only once.
@@ -1861,7 +1861,7 @@ Description = A gem with an ordinary essence. When held, it strengthens the powe
 [LIGHTBALL]
 Name = Light Ball
 NamePlural = Light Balls
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_30
 Description = An item to be held by Pikachu. It is a puzzling orb that raises the Attack and Sp. Atk stat.
@@ -1869,7 +1869,7 @@ Description = An item to be held by Pikachu. It is a puzzling orb that raises th
 [LUCKYPUNCH]
 Name = Lucky Punch
 NamePlural = Lucky Punches
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_40
 Description = An item to be held by Chansey. It is a pair of gloves that boosts Chansey's critical-hit ratio.
@@ -1877,7 +1877,7 @@ Description = An item to be held by Chansey. It is a pair of gloves that boosts 
 [METALPOWDER]
 Name = Metal Powder
 NamePlural = Metal Powders
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_10
 Description = An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Defense stat.
@@ -1885,7 +1885,7 @@ Description = An item to be held by Ditto. Extremely fine yet hard, this odd pow
 [QUICKPOWDER]
 Name = Quick Powder
 NamePlural = Quick Powders
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_10
 Description = An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Speed stat.
@@ -1893,7 +1893,7 @@ Description = An item to be held by Ditto. Extremely fine yet hard, this odd pow
 [THICKCLUB]
 Name = Thick Club
 NamePlural = Thick Clubs
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_90
 Description = An item to be held by Cubone or Marowak. It is a hard bone of some sort that boosts the Attack stat.
@@ -1901,7 +1901,7 @@ Description = An item to be held by Cubone or Marowak. It is a hard bone of some
 [LEEK]
 Name = Leek
 NamePlural = Leeks
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_60
 Description = An item to be held by Farfetch'd. It is a very long and stiff stalk of leek that boosts the critical-hit ratio.
@@ -1909,7 +1909,7 @@ Description = An item to be held by Farfetch'd. It is a very long and stiff stal
 [SOULDEW]
 Name = Soul Dew
 NamePlural = Soul Dews
-Pocket = 1
+Pocket = 7
 Price = 0
 Flags = Fling_30
 Description = A wondrous orb to be held by either Latios or Latias. It raises the power of Psychic- and Dragon-type moves.
@@ -1917,7 +1917,7 @@ Description = A wondrous orb to be held by either Latios or Latias. It raises th
 [DEEPSEATOOTH]
 Name = Deep Sea Tooth
 NamePlural = Deep Sea Teeth
-Pocket = 1
+Pocket = 7
 Price = 2000
 Flags = Fling_90
 Description = An item to be held by Clamperl. A fang that gleams a sharp silver, it raises the Sp. Atk stat.
@@ -1933,7 +1933,7 @@ Description = An item to be held by Clamperl. A scale that shines a faint pink, 
 [ADAMANTORB]
 Name = Adamant Orb
 NamePlural = Adamant Orbs
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 0
 Flags = Fling_60
@@ -1942,7 +1942,7 @@ Description = A brightly gleaming orb to be held by Dialga. It boosts the power 
 [LUSTROUSORB]
 Name = Lustrous Orb
 NamePlural = Lustrous Orbs
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 0
 Flags = Fling_60
@@ -1951,7 +1951,7 @@ Description = A beautifully glowing orb to be held by Palkia. It boosts the powe
 [GRISEOUSORB]
 Name = Griseous Orb
 NamePlural = Griseous Orbs
-Pocket = 1
+Pocket = 7
 Price = 10000
 SellPrice = 0
 Flags = Fling_60
@@ -1960,21 +1960,21 @@ Description = A glowing orb to be held by Giratina. It boosts the power of Drago
 [RUSTEDSWORD]
 Name = Rusted Sword
 NamePlural = Rusted Swords
-Pocket = 1
+Pocket = 7
 Price = 0
 Description = It is said that a hero used this sword to halt a disaster in ancient times. But it's grown rusty and worn.
 #-------------------------------
 [RUSTEDSHIELD]
 Name = Rusted Shield
 NamePlural = Rusted Shields
-Pocket = 1
+Pocket = 7
 Price = 0
 Description = It is said that a hero used this shield to halt a disaster in ancient times. But it's grown rusty and worn.
 #-------------------------------
 [DOUSEDRIVE]
 Name = Douse Drive
 NamePlural = Douse Drives
-Pocket = 1
+Pocket = 7
 Price = 0
 Flags = Fling_70
 Description = A cassette to be held by Genesect. It changes Techno Blast to a Water-type move.
@@ -1982,7 +1982,7 @@ Description = A cassette to be held by Genesect. It changes Techno Blast to a Wa
 [SHOCKDRIVE]
 Name = Shock Drive
 NamePlural = Shock Drives
-Pocket = 1
+Pocket = 7
 Price = 0
 Flags = Fling_70
 Description = A cassette to be held by Genesect. It changes Techno Blast to an Electric-type move.
@@ -1990,7 +1990,7 @@ Description = A cassette to be held by Genesect. It changes Techno Blast to an E
 [BURNDRIVE]
 Name = Burn Drive
 NamePlural = Burn Drives
-Pocket = 1
+Pocket = 7
 Price = 0
 Flags = Fling_70
 Description = A cassette to be held by Genesect. It changes Techno Blast to a Fire-type move.
@@ -1998,7 +1998,7 @@ Description = A cassette to be held by Genesect. It changes Techno Blast to a Fi
 [CHILLDRIVE]
 Name = Chill Drive
 NamePlural = Chill Drives
-Pocket = 1
+Pocket = 7
 Price = 0
 Flags = Fling_70
 Description = A cassette to be held by Genesect. It changes Techno Blast to an Ice-type move.
@@ -2006,7 +2006,7 @@ Description = A cassette to be held by Genesect. It changes Techno Blast to an I
 [FIREMEMORY]
 Name = Fire Memory
 NamePlural = Fire Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Fire-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2014,7 +2014,7 @@ Description = A memory disc containing Fire-type data. It changes the holder's t
 [WATERMEMORY]
 Name = Water Memory
 NamePlural = Water Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Water-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2022,7 +2022,7 @@ Description = A memory disc containing Water-type data. It changes the holder's 
 [ELECTRICMEMORY]
 Name = Electric Memory
 NamePlural = Electric Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Electric-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2030,7 +2030,7 @@ Description = A memory disc containing Electric-type data. It changes the holder
 [GRASSMEMORY]
 Name = Grass Memory
 NamePlural = Grass Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Grass-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2038,7 +2038,7 @@ Description = A memory disc containing Grass-type data. It changes the holder's 
 [ICEMEMORY]
 Name = Ice Memory
 NamePlural = Ice Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Ice-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2054,7 +2054,7 @@ Description = A memory disc containing Fighting-type data. It changes the holder
 [POISONMEMORY]
 Name = Poison Memory
 NamePlural = Poison Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Poison-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2062,7 +2062,7 @@ Description = A memory disc containing Poison-type data. It changes the holder's
 [GROUNDMEMORY]
 Name = Ground Memory
 NamePlural = Ground Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Ground-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2070,7 +2070,7 @@ Description = A memory disc containing Ground-type data. It changes the holder's
 [FLYINGMEMORY]
 Name = Flying Memory
 NamePlural = Flying Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Flying-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2078,7 +2078,7 @@ Description = A memory disc containing Flying-type data. It changes the holder's
 [PSYCHICMEMORY]
 Name = Psychic Memory
 NamePlural = Psychic Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Psychic-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2086,7 +2086,7 @@ Description = A memory disc containing Psychic-type data. It changes the holder'
 [BUGMEMORY]
 Name = Bug Memory
 NamePlural = Bug Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Bug-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2094,7 +2094,7 @@ Description = A memory disc containing Bug-type data. It changes the holder's ty
 [ROCKMEMORY]
 Name = Rock Memory
 NamePlural = Rock Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Rock-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2102,7 +2102,7 @@ Description = A memory disc containing Rock-type data. It changes the holder's t
 [GHOSTMEMORY]
 Name = Ghost Memory
 NamePlural = Ghost Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Ghost-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2110,7 +2110,7 @@ Description = A memory disc containing Ghost-type data. It changes the holder's 
 [DRAGONMEMORY]
 Name = Dragon Memory
 NamePlural = Dragon Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Dragon-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2118,7 +2118,7 @@ Description = A memory disc containing Dragon-type data. It changes the holder's
 [DARKMEMORY]
 Name = Dark Memory
 NamePlural = Dark Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Dark-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2126,7 +2126,7 @@ Description = A memory disc containing Dark-type data. It changes the holder's t
 [STEELMEMORY]
 Name = Steel Memory
 NamePlural = Steel Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Steel-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2134,7 +2134,7 @@ Description = A memory disc containing Steel-type data. It changes the holder's 
 [FAIRYMEMORY]
 Name = Fairy Memory
 NamePlural = Fairy Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Fairy-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2150,7 +2150,7 @@ Description = An item to be held by a Pokémon. The Pokémon holding this peculi
 [DRAGONSCALE]
 Name = Dragon Scale
 NamePlural = Dragon Scales
-Pocket = 1
+Pocket = 7
 Price = 3000
 SellPrice = 1000
 Flags = Fling_30
@@ -2305,7 +2305,7 @@ Description = A ribbon-shaped sweet. When a Milcery holds this, it spins around 
 [VENUSAURITE]
 Name = Venusaurite
 NamePlural = Venusaurites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Venusaur hold it, and it will be able to Mega Evolve.
@@ -2313,7 +2313,7 @@ Description = One of a variety of mysterious Mega Stones. Have Venusaur hold it,
 [CHARIZARDITEX]
 Name = Charizardite X
 NamePlural = Charizardite Xs
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Charizard hold it, and it will be able to Mega Evolve.
@@ -2321,7 +2321,7 @@ Description = One of a variety of mysterious Mega Stones. Have Charizard hold it
 [CHARIZARDITEY]
 Name = Charizardite Y
 NamePlural = Charizardite Ys
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Charizard hold it, and it will be able to Mega Evolve.
@@ -2329,7 +2329,7 @@ Description = One of a variety of mysterious Mega Stones. Have Charizard hold it
 [BLASTOISINITE]
 Name = Blastoisinite
 NamePlural = Blastoisinites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Blastoise hold it, and it will be able to Mega Evolve.
@@ -2337,7 +2337,7 @@ Description = One of a variety of mysterious Mega Stones. Have Blastoise hold it
 [BEEDRILLITE]
 Name = Beedrillite
 NamePlural = Beedrillites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Beedrill hold it, and it will be able to Mega Evolve.
@@ -2345,7 +2345,7 @@ Description = One of a variety of mysterious Mega Stones. Have Beedrill hold it,
 [PIDGEOTITE]
 Name = Pidgeotite
 NamePlural = Pidgeotites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Pidgeot hold it, and it will be able to Mega Evolve.
@@ -2353,7 +2353,7 @@ Description = One of a variety of mysterious Mega Stones. Have Pidgeot hold it, 
 [ALAKAZITE]
 Name = Alakazite
 NamePlural = Alakazites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Alakazam hold it, and it will be able to Mega Evolve.
@@ -2361,7 +2361,7 @@ Description = One of a variety of mysterious Mega Stones. Have Alakazam hold it,
 [SLOWBRONITE]
 Name = Slowbronite
 NamePlural = Slowbronites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Slowbro hold it, and it will be able to Mega Evolve.
@@ -2369,7 +2369,7 @@ Description = One of a variety of mysterious Mega Stones. Have Slowbro hold it, 
 [GENGARITE]
 Name = Gengarite
 NamePlural = Gengarites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Gengar hold it, and it will be able to Mega Evolve.
@@ -2377,7 +2377,7 @@ Description = One of a variety of mysterious Mega Stones. Have Gengar hold it, a
 [KANGASKHANITE]
 Name = Kangaskhanite
 NamePlural = Kangaskhanites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Kangaskhan hold it, and it will be able to Mega Evolve.
@@ -2385,7 +2385,7 @@ Description = One of a variety of mysterious Mega Stones. Have Kangaskhan hold i
 [PINSIRITE]
 Name = Pinsirite
 NamePlural = Pinsirites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Pinsir hold it, and it will be able to Mega Evolve.
@@ -2393,7 +2393,7 @@ Description = One of a variety of mysterious Mega Stones. Have Pinsir hold it, a
 [GYARADOSITE]
 Name = Gyaradosite
 NamePlural = Gyaradosites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Gyarados hold it, and it will be able to Mega Evolve.
@@ -2401,7 +2401,7 @@ Description = One of a variety of mysterious Mega Stones. Have Gyarados hold it,
 [AERODACTYLITE]
 Name = Aerodactylite
 NamePlural = Aerodactylites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Aerodactyl hold it, and it will be able to Mega Evolve.
@@ -2409,7 +2409,7 @@ Description = One of a variety of mysterious Mega Stones. Have Aerodactyl hold i
 [MEWTWONITEX]
 Name = Mewtwonite X
 NamePlural = Mewtwonite Xs
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and it will be able to Mega Evolve.
@@ -2417,7 +2417,7 @@ Description = One of a variety of mysterious Mega Stones. Have Mewtwo hold it, a
 [MEWTWONITEY]
 Name = Mewtwonite Y
 NamePlural = Mewtwonite Ys
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and it will be able to Mega Evolve.
@@ -2425,7 +2425,7 @@ Description = One of a variety of mysterious Mega Stones. Have Mewtwo hold it, a
 [AMPHAROSITE]
 Name = Ampharosite
 NamePlural = Ampharosites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Ampharos hold it, and it will be able to Mega Evolve.
@@ -2433,7 +2433,7 @@ Description = One of a variety of mysterious Mega Stones. Have Ampharos hold it,
 [STEELIXITE]
 Name = Steelixite
 NamePlural = Steelixites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Steelix hold it, and it will be able to Mega Evolve.
@@ -2441,7 +2441,7 @@ Description = One of a variety of mysterious Mega Stones. Have Steelix hold it, 
 [SCIZORITE]
 Name = Scizorite
 NamePlural = Scizorites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Scizor hold it, and it will be able to Mega Evolve.
@@ -2449,7 +2449,7 @@ Description = One of a variety of mysterious Mega Stones. Have Scizor hold it, a
 [HERACRONITE]
 Name = Heracronite
 NamePlural = Heracronites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Heracross hold it, and it will be able to Mega Evolve.
@@ -2457,7 +2457,7 @@ Description = One of a variety of mysterious Mega Stones. Have Heracross hold it
 [HOUNDOOMINITE]
 Name = Houndoominite
 NamePlural = Houndoominites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Houndoom hold it, and it will be able to Mega Evolve.
@@ -2465,7 +2465,7 @@ Description = One of a variety of mysterious Mega Stones. Have Houndoom hold it,
 [TYRANITARITE]
 Name = Tyranitarite
 NamePlural = Tyranitarites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Tyranitar hold it, and it will be able to Mega Evolve.
@@ -2473,7 +2473,7 @@ Description = One of a variety of mysterious Mega Stones. Have Tyranitar hold it
 [SCEPTILITE]
 Name = Sceptilite
 NamePlural = Sceptilites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Sceptile hold it, and it will be able to Mega Evolve.
@@ -2489,7 +2489,7 @@ Description = One of a variety of mysterious Mega Stones. Have Blaziken hold it,
 [SWAMPERTITE]
 Name = Swampertite
 NamePlural = Swampertites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Swampert hold it, and it will be able to Mega Evolve.
@@ -2497,7 +2497,7 @@ Description = One of a variety of mysterious Mega Stones. Have Swampert hold it,
 [GARDEVOIRITE]
 Name = Gardevoirite
 NamePlural = Gardevoirites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Gardevoir hold it, and it will be able to Mega Evolve.
@@ -2505,7 +2505,7 @@ Description = One of a variety of mysterious Mega Stones. Have Gardevoir hold it
 [SABLENITE]
 Name = Sablenite
 NamePlural = Sablenites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Sableye hold it, and it will be able to Mega Evolve.
@@ -2513,7 +2513,7 @@ Description = One of a variety of mysterious Mega Stones. Have Sableye hold it, 
 [MAWILITE]
 Name = Mawilite
 NamePlural = Mawilites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Mawile hold it, and it will be able to Mega Evolve.
@@ -2521,7 +2521,7 @@ Description = One of a variety of mysterious Mega Stones. Have Mawile hold it, a
 [AGGRONITE]
 Name = Aggronite
 NamePlural = Aggronites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Aggron hold it, and it will be able to Mega Evolve.
@@ -2529,7 +2529,7 @@ Description = One of a variety of mysterious Mega Stones. Have Aggron hold it, a
 [MEDICHAMITE]
 Name = Medichamite
 NamePlural = Medichamites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Medicham hold it, and it will be able to Mega Evolve.
@@ -2537,7 +2537,7 @@ Description = One of a variety of mysterious Mega Stones. Have Medicham hold it,
 [MANECTITE]
 Name = Manectite
 NamePlural = Manectites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Manectric hold it, and it will be able to Mega Evolve.
@@ -2545,7 +2545,7 @@ Description = One of a variety of mysterious Mega Stones. Have Manectric hold it
 [SHARPEDONITE]
 Name = Sharpedonite
 NamePlural = Sharpedonites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Sharpedo hold it, and it will be able to Mega Evolve.
@@ -2553,7 +2553,7 @@ Description = One of a variety of mysterious Mega Stones. Have Sharpedo hold it,
 [CAMERUPTITE]
 Name = Cameruptite
 NamePlural = Cameruptites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Camerupt hold it, and it will be able to Mega Evolve.
@@ -2561,7 +2561,7 @@ Description = One of a variety of mysterious Mega Stones. Have Camerupt hold it,
 [ALTARIANITE]
 Name = Altarianite
 NamePlural = Altarianites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Altaria hold it, and it will be able to Mega Evolve.
@@ -2569,7 +2569,7 @@ Description = One of a variety of mysterious Mega Stones. Have Altaria hold it, 
 [BANETTITE]
 Name = Banettite
 NamePlural = Banettites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Banette hold it, and it will be able to Mega Evolve.
@@ -2577,7 +2577,7 @@ Description = One of a variety of mysterious Mega Stones. Have Banette hold it, 
 [ABSOLITE]
 Name = Absolite
 NamePlural = Absolites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Absol hold it, and it will be able to Mega Evolve.
@@ -2585,7 +2585,7 @@ Description = One of a variety of mysterious Mega Stones. Have Absol hold it, an
 [GLALITITE]
 Name = Glalitite
 NamePlural = Glalitites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Glalie hold it, and it will be able to Mega Evolve.
@@ -2593,7 +2593,7 @@ Description = One of a variety of mysterious Mega Stones. Have Glalie hold it, a
 [SALAMENCITE]
 Name = Salamencite
 NamePlural = Salamencites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Salamence hold it, and it will be able to Mega Evolve.
@@ -2601,7 +2601,7 @@ Description = One of a variety of mysterious Mega Stones. Have Salamence hold it
 [METAGROSSITE]
 Name = Metagrossite
 NamePlural = Metagrossites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Metagross hold it, and it will be able to Mega Evolve.
@@ -2609,7 +2609,7 @@ Description = One of a variety of mysterious Mega Stones. Have Metagross hold it
 [LATIASITE]
 Name = Latiasite
 NamePlural = Latiasites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Latias hold it, and it will be able to Mega Evolve.
@@ -2617,7 +2617,7 @@ Description = One of a variety of mysterious Mega Stones. Have Latias hold it, a
 [LATIOSITE]
 Name = Latiosite
 NamePlural = Latiosites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Latios hold it, and it will be able to Mega Evolve.
@@ -2625,7 +2625,7 @@ Description = One of a variety of mysterious Mega Stones. Have Latios hold it, a
 [LOPUNNITE]
 Name = Lopunnite
 NamePlural = Lopunnites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Lopunny hold it, and it will be able to Mega Evolve.
@@ -2633,7 +2633,7 @@ Description = One of a variety of mysterious Mega Stones. Have Lopunny hold it, 
 [GARCHOMPITE]
 Name = Garchompite
 NamePlural = Garchompites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Garchomp hold it, and it will be able to Mega Evolve.
@@ -2641,7 +2641,7 @@ Description = One of a variety of mysterious Mega Stones. Have Garchomp hold it,
 [LUCARIONITE]
 Name = Lucarionite
 NamePlural = Lucarionites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Lucario hold it, and it will be able to Mega Evolve.
@@ -2649,7 +2649,7 @@ Description = One of a variety of mysterious Mega Stones. Have Lucario hold it, 
 [ABOMASITE]
 Name = Abomasite
 NamePlural = Abomasites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Abomasnow hold it, and it will be able to Mega Evolve.
@@ -2657,7 +2657,7 @@ Description = One of a variety of mysterious Mega Stones. Have Abomasnow hold it
 [GALLADITE]
 Name = Galladite
 NamePlural = Galladites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Gallade hold it, and it will be able to Mega Evolve.
@@ -2665,7 +2665,7 @@ Description = One of a variety of mysterious Mega Stones. Have Gallade hold it, 
 [AUDINITE]
 Name = Audinite
 NamePlural = Audinites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Audino hold it, and it will be able to Mega Evolve.
@@ -2673,7 +2673,7 @@ Description = One of a variety of mysterious Mega Stones. Have Audino hold it, a
 [DIANCITE]
 Name = Diancite
 NamePlural = Diancites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Diancie hold it, and it will be able to Mega Evolve.
@@ -2681,7 +2681,7 @@ Description = One of a variety of mysterious Mega Stones. Have Diancie hold it, 
 [REDORB]
 Name = Red Orb
 NamePlural = Red Orbs
-Pocket = 1
+Pocket = 6
 Price = 10000
 SellPrice = 0
 Description = A shiny red orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
@@ -2689,7 +2689,7 @@ Description = A shiny red orb that is said to have a legend tied to it. It's kno
 [BLUEORB]
 Name = Blue Orb
 NamePlural = Blue Orbs
-Pocket = 1
+Pocket = 6
 Price = 10000
 SellPrice = 0
 Description = A shiny blue orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
@@ -6187,13 +6187,13 @@ Flags = KeyItem
 Description = This can be used to return to the last healing place.
 #-------------------------------------------------------------------------------
 [WATERFALLITEM]
-Name = Float Barclet
-NamePlural = Float Barclet
+Name = Float Braclet
+NamePlural = Float Braclet
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = Unique barclet that allow the user to swim up a waterfall.
+Description = Unique braclet that allow the user to swim up a waterfall.
 #-------------------------------------------------------------------------------
 [WHIRLPOOLITEM]
 Name = Hand Paddles
