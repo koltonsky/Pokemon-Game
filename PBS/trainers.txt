@@ -169,7 +169,7 @@ Pokemon = Latias,80
     Moves = CALMMIND,DRAGONPULSE,RECOVER,MISTBALL
     AbilityIndex = 0
     Item = Latiasite
-    Nature = Timid
+    Nature = TIMID
     IV = 31,31,31,31,31,31
     EV = 0,0,0,252,0,252
     
