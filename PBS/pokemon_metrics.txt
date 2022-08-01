@@ -96,6 +96,12 @@ FrontSprite = 0,13
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
+[BUTTERFREE,1]
+BackSprite = 0,48
+FrontSprite = 0,13
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
 [WEEDLE]
 BackSprite = 0,52
 FrontSprite = 0,31

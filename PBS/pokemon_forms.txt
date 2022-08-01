@@ -2314,3 +2314,16 @@ Color = Black
 Shape = Quadruped
 Category = High King
 Pokedex = Legend says that by using its power to see all events from past to future, this Pokémon saved the creatures of a forest from a meteorite strike.
+#-----------------------------
+[BUTTERFREE,1]
+FormName = Mega Butterfree
+MegaStone = BUTTERFREEITE
+Types = BUG,FLYING
+BaseStats = 60,45,50,120,140,80
+BaseExp = 317
+Abilities = TINTEDLENS
+HiddenAbilities = TINTEDLENS
+Weight = 110.5
+Color = Green
+Pokedex = The overwhelming power that fills its entire body causes it to turn black and create intense blue flames.
+Generation = 6

@@ -2694,6 +2694,14 @@ Price = 10000
 SellPrice = 0
 Description = A shiny blue orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
 #-------------------------------
+[BUTTERFREEITE]
+Name = Butterfreeite
+NamePlural = Butterfreeite
+Pocket = 6
+Price = 0
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Butterfree hold it, and it will be able to Mega Evolve.
+#-------------------------------
 [POTION]
 Name = Potion
 NamePlural = Potions
