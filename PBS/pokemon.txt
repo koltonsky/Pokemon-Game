@@ -4128,7 +4128,7 @@ Evolutions = TYPHLOSION,Level,36
 #-------------------------------
 [TYPHLOSION]
 Name = Typhlosion
-Types = FIRE
+Types = FIRE,GROUND
 BaseStats = 78,84,78,100,109,85
 GenderRatio = FemaleOneEighth
 GrowthRate = Parabolic
