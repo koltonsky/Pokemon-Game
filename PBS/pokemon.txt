@@ -4128,7 +4128,7 @@ Evolutions = TYPHLOSION,Level,36
 #-------------------------------
 [TYPHLOSION]
 Name = Typhlosion
-Types = FIRE
+Types = FIRE,GROUND
 BaseStats = 78,84,78,100,109,85
 GenderRatio = FemaleOneEighth
 GrowthRate = Parabolic
@@ -4363,7 +4363,7 @@ Evolutions = LEDIAN,Level,18
 [LEDIAN]
 Name = Ledian
 Types = BUG,FIGHTING
-BaseStats = 55,90,50,110,55,80
+BaseStats = 55,98,50,110,55,80
 GenderRatio = Female50Percent
 GrowthRate = Fast
 BaseExp = 137
