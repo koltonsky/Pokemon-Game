@@ -4,10 +4,22 @@
 41,North,0,40,South,0
 # Route 5 (41) - Route 6 Cycling Road (45)
 41,South,6,45,North,0
+# Start Town (22) - Bird Sanctuary (86)
+22,West,5,86,East,0
+# Route 4 (39) - Bird Sanctuary (86)
+39,South,163,86,North,0
+# Route1 (79) - Start Town (22)
+79,West,0,22,East,5
+# Route 4 (39) - Route1 (79)
+39,South,244,79,North,0
+# Prof Town (80) - Route1 (79)
+80,West,0,79,East,20
+# Ingido Plateau outside (35) - Route 4 (39)
+35,West,11,39,East,0
+# Route 3 (31) - Ingido Plateau outside (35)
+31,West,0,35,East,10
 # Lerucean Town (23) - Route 3 (31)
 23,North,0,31,South,32
-# Ingido Plateau outside (35) - Route 3 (31)
-35,East,10,31,West,0
 # Cedolan City (7) - Lerucean Town (23)
 7,East,0,23,West,78
 # Route 2 (21) - Lerucean Town (23)
@@ -38,15 +50,5 @@
 21,East,77,47,West,0
 # Battle Frontier (52) - Route 7 (47)
 52,West,0,47,East,8
-# Route 4 (39) - Ingido Plateau outside (35)
-39,East,0,35,West,11
-# Route1 (79) - Route 4 (39)
-79,North,0,39,South,244
-# Start Town (22) - Route1 (79)
-22,East,5,79,West,0
-# Prof Town (80) - Route1 (79)
-80,West,0,79,East,20
-# Bird Sanctuary (86) - Start Town (22)
-86,East,0,22,West,7
 # Route2 (85) - Prof Town (80)
 85,West,18,80,East,0
