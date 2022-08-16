@@ -302,9 +302,18 @@ Land,21
 #-------------------------------
 [079] # Route1
 Land,21
-    1,DEWPIDER,2,4
+    30,BLIPBUG,2,4
     30,WEEDLE,2,4
     25,SPINARAK,2,4
     10,LEDYBA,2,4
     4,HOPPIP,2,4
-    30,BLIPBUG,2,4
+    1,DEWPIDER,2,4
+#-------------------------------
+[085] # Route2
+Land,21
+    25,RATTATA,4,6
+    10,SHINX,4,6
+    10,SKITTY,4,6
+    15,BUNNELBY,4,6
+    15,POOCHYENA,4,6
+    25,BIDOOF,4,6
