@@ -2,8 +2,29 @@
 #-------------------------------
 [CAMPER,Liam]
 LoseText = A very good battle, indeed!
-Pokemon = DIGLETT,10
+Pokemon = BANETTE,10
 Pokemon = BONSLY,11
+#-------------------------------
+[LEADER_Brock,Brock2]
+LoseText = Very good.
+Pokemon = FURRET,12
+    Gender = male
+    Moves = TACKLE
+    AbilityIndex = 0
+    IV = 20,20,20,20,20,20
+    EV = 252,0,252,0,0,0
+Pokemon = GEODUDE,12
+    Gender = male
+    Moves = HEADSMASH,ROCKTOMB
+    AbilityIndex = 0
+    IV = 20,20,20,20,20,20
+    EV = 252,0,252,0,0,0
+Pokemon = GEODUDE,12
+    Gender = male
+    Moves = HEADSMASH,ROCKTOMB
+    AbilityIndex = 0
+    IV = 20,20,20,20,20,20
+    EV = 252,0,252,0,0,0
 #-------------------------------
 [LEADER_Brock,Brock]
 Items = FULLRESTORE,FULLRESTORE
@@ -467,7 +488,7 @@ Pokemon = BELLOSSOM,36
     EV = 0,0,0,252,252,0
 Pokemon = TROPIUS,36
     Moves = SOLARBLADE,DRAGONDANCE,DRAGONHAMMER,NATURALGIFT
-    AbilityIndex = 0
+    AbilityIndex = 2
     Item = OCCABERRY
     Nature = ADAMANT
     IV = 31,31,31,31,31,31
