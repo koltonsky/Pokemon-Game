@@ -3,7 +3,7 @@
 [CAMPER,Liam]
 LoseText = A very good battle, indeed!
 Pokemon = BANETTE,10
-Pokemon = BONSLY,11
+Pokemon = BONSLY,12
 #-------------------------------
 [LEADER_Brock,Brock2]
 LoseText = Very good.
@@ -12,7 +12,7 @@ Pokemon = FURRET,12
     Moves = TACKLE
     AbilityIndex = 0
     IV = 20,20,20,20,20,20
-    EV = 252,0,252,0,0,0
+    EV = 252,0,252,0,0,1
 Pokemon = GEODUDE,12
     Gender = male
     Moves = HEADSMASH,ROCKTOMB
@@ -702,3 +702,11 @@ Pokemon = DIANCIE,80
     Nature = TIMID
     IV = 31,0,31,31,31,31
     EV = 0,0,0,252,252,0
+#-------------------------------
+[POKEMONTRAINER_May,Emily]
+SkillLevel = 255
+LoseText = I'm not really awake yet
+Pokemon = EEVEE,5
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
