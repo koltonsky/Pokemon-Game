@@ -302,12 +302,12 @@ Land,21
 #-------------------------------
 [079] # Route1
 Land,21
-    30,BLIPBUG,2,4
-    30,WEEDLE,2,4
-    25,SPINARAK,2,4
-    10,LEDYBA,2,4
-    4,HOPPIP,2,4
-    1,DEWPIDER,2,4
+    30,BLIPBUG,3,4
+    30,WEEDLE,3,4
+    25,SPINARAK,3,4
+    10,LEDYBA,3,4
+    4,HOPPIP,3,4
+    1,DEWPIDER,3,4
 #-------------------------------
 [085] # Route2
 Land,21
@@ -320,9 +320,9 @@ Land,21
 #-------------------------------
 [086] # Bird Sanctuary
 Land,21
-    7,FLETCHLING,2,4
-    20,PIDGEY,2,4
-    20,PIDOVE,2,4
-    20,PIKIPEK,2,4
-    18,ROOKIDEE,2,4
-    15,STARLY,2,4
+    7,FLETCHLING,5,6
+    20,PIDGEY,5,6
+    20,PIDOVE,5,6
+    20,PIKIPEK,5,6
+    18,ROOKIDEE,5,6
+    15,STARLY,5,6
