@@ -2,8 +2,7 @@
 #-----------------Route1---------------
 [YOUNGSTER,Ben,1]
 LoseText = Aww, I really wanted your monkey.
-Pokemon = EXEGGCUTE,6
-Pokemon = HOPPIP,6
+Pokemon = SENTRET,5
 
 #--------------E4---------------------------
 #-------------------------------
