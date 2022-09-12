@@ -4,6 +4,11 @@
 LoseText = Aww, I really wanted your monkey.
 Pokemon = SENTRET,5
 
+#-----------------Route2---------------
+[YOUNGSTER,Ben,2]
+LoseText = Aww, I really wanted your monkey.
+Pokemon = SENTRET,5
+
 #--------------E4-------------------------
 #---------------------------------
 [CHAMPION,Kovie]
@@ -389,7 +394,7 @@ Pokemon = DIANCIE,80
     EV = 0,0,0,252,252,0
 #------------RIVAL---------------------
 #-------------------------------
-[POKEMONTRAINER_May,Emily]
+[POKEMONTRAINER_May,Emily,1]
 SkillLevel = 255
 LoseText = I'm not really awake yet
 Pokemon = EEVEE,5
