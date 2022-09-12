@@ -4,8 +4,8 @@
 LoseText = Aww, I really wanted your monkey.
 Pokemon = SENTRET,5
 
-#--------------E4---------------------------
-#-------------------------------
+#--------------E4--------------------------
+#---------------------------------
 [CHAMPION,Kovie]
 SkillLevel = 255
 Items = MEGARING
