@@ -5,9 +5,40 @@ LoseText = Aww, I really wanted your monkey.
 Pokemon = SENTRET,5
 
 #-----------------Route2---------------
-[YOUNGSTER,Ben,2]
-LoseText = Aww, I really wanted your monkey.
-Pokemon = SENTRET,5
+[FISHERMAN,Tom,1]
+LoseText = We can worry about that later
+Pokemon = MAGIKARP,4
+Pokemon = HORSEA,6
+#--------------------------------------
+[BUGCATCHER,Zac,1]
+LoseText = We can worry about that later
+Pokemon = PARAS,7
+Pokemon = NINCADA,7
+Pokemon = SURSKIT,7
+#---------------------------------------
+[POKEMONRANGER_M,Harambe,1]
+LoseText = We can worry about that later
+Pokemon = PANSAGE,7
+Pokemon = PANSEAR,7
+Pokemon = PANPOUR,7
+#---------------------------------------
+[HIKER,Brick,1]
+LoseText = WE can worry about that later
+Pokemon = GEODUDE,6
+Pokemon = ROGGENROLA,7
+Pokemon = ONIX,8
+#--------------------------------------
+[HIKER,Alex,1]
+LoseText = We can worry about that later
+Pokemon = NOSEPASS,8
+Pokemon = RHYHORN,8
+#--------------------------------------
+[BLACKBELT,Jun,1]
+LoseText = We can worry about that later
+Pokemon = TYROGUE,8
+Pokemon = RIOLU,8
+
+#------------CAVE---------------------------
 
 #--------------E4-------------------------
 #---------------------------------
