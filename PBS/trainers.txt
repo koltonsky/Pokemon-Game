@@ -15,7 +15,7 @@ LoseText = We can worry about that later
 Pokemon = PARAS,7
 Pokemon = NINCADA,7
 Pokemon = SURSKIT,7
-#---------------------------------------
+#--------------------------------------
 [POKEMONRANGER_M,Harambe,1]
 LoseText = We can worry about that later
 Pokemon = PANSAGE,7
