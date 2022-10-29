@@ -39,6 +39,13 @@ Pokemon = TYROGUE,8
 Pokemon = RIOLU,8
 
 #------------CAVE---------------------------
+[CHAMPION,Jared,1]
+LoseText = We can worry about that later
+Pokemon = HEATRAN,70
+    IV = 0,0,0,0,0,0
+    EV = 0,0,0,0,0,0
+    HP = 1
+
 
 #--------------E4-------------------------
 #---------------------------------
