@@ -39,6 +39,26 @@ Pokemon = TYROGUE,8
 Pokemon = RIOLU,8
 
 #------------CAVE---------------------------
+[HIKER,Jerry,1]
+LoseText = We can worry about that later
+Pokemon = MACHOP,9
+Pokemon = MAKUHITA,10
+#-------------------------------------------
+[COOLTRAINER_M,Russell,1]
+LoseText = We can worry about that later
+Pokemon = HOUNDOUR,10
+Pokemon = MAGBY,11
+#------------------------------------
+[PSYCHIC_M,Jack,1]
+LoseText = We can worry about that later
+Pokemon = ZUBAT,10
+Pokemon = WOOBAT,10
+#-------------------------------------------
+[PSYCHIC_F,Jill,1]
+LoseText = We can worry about that later
+Pokemon = ZUBAT,10
+Pokemon = WOOBAT,10
+#---------------------------------------------
 [CHAMPION,Jared,1]
 LoseText = We can worry about that later
 Pokemon = HEATRAN,70
