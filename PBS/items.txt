@@ -871,7 +871,7 @@ Description = An item to be held by a Pokémon. This headband ups Attack, but al
 [CHOICESPECS]
 Name = Choice Specs
 NamePlural = Choice Specs
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = Fling_10
 Description = An item to be held by a Pokémon. These curious glasses boost Sp. Atk but allows the use of only one move.
@@ -1829,7 +1829,7 @@ Description = A gem with a draconic essence. When held, it strengthens the power
 [DARKGEM]
 Name = Dark Gem
 NamePlural = Dark Gems
-Pocket = 1
+Pocket = 7
 Price = 4000
 Flags = TypeGem
 Description = A gem with an essence of darkness. When held, it strengthens the power of a Dark-type move only once.
@@ -1925,7 +1925,7 @@ Description = An item to be held by Clamperl. A fang that gleams a sharp silver,
 [DEEPSEASCALE]
 Name = Deep Sea Scale
 NamePlural = Deep Sea Scales
-Pocket = 1
+Pocket = 7
 Price = 2000
 Flags = Fling_30
 Description = An item to be held by Clamperl. A scale that shines a faint pink, it raises the Sp. Def stat.
@@ -2046,7 +2046,7 @@ Description = A memory disc containing Ice-type data. It changes the holder's ty
 [FIGHTINGMEMORY]
 Name = Fighting Memory
 NamePlural = Fighting Memories
-Pocket = 1
+Pocket = 7
 Price = 1000
 Flags = Fling_50
 Description = A memory disc containing Fighting-type data. It changes the holder's type if held by a certain Pokémon.
@@ -2481,7 +2481,7 @@ Description = One of a variety of mysterious Mega Stones. Have Sceptile hold it,
 [BLAZIKENITE]
 Name = Blazikenite
 NamePlural = Blazikenites
-Pocket = 1
+Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Blaziken hold it, and it will be able to Mega Evolve.
