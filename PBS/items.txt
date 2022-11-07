@@ -2702,6 +2702,14 @@ Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Butterfree hold it, and it will be able to Mega Evolve.
 #-------------------------------
+[EEVEEITE]
+Name = Eeveeite
+NamePlural = Eeveeite
+Pocket = 6
+Price = 0
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Eevee hold it, and it will be able to Mega Evolve.
+#-------------------------------
 [POTION]
 Name = Potion
 NamePlural = Potions

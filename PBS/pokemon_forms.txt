@@ -2323,7 +2323,20 @@ BaseStats = 60,45,65,120,115,90
 BaseExp = 317
 Abilities = TINTEDLENS
 HiddenAbilities = TINTEDLENS
-Weight = 110.5
+Weight = 32.0
 Color = Green
-Pokedex = The overwhelming power that fills its entire body causes it to turn black and create intense blue flames.
-Generation = 6
+Pokedex = The overwhelming power that fills its entire body causes it to turn big and green.
+Generation = 1
+#-----------------------------
+[EEVEE,1]
+FormName = Mega Eevee
+MegaStone = EEVEEITE
+Types = NORMAL
+BaseStats = 55,80,110,70,60,130
+BaseExp = 317
+Abilities = FRIENDGUARD
+HiddenAbilities = FRIENDGUARD
+Weight = 9.5
+Color = Brown
+Pokedex = The overwhelming power that fills its entire body causes it to turn super fluffy and adorable :).
+Generation = 1
