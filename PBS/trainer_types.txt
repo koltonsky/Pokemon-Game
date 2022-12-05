@@ -341,7 +341,7 @@ VictoryBGM = Battle victory leader
 Name = Gym Leader
 Gender = Male
 BaseMoney = 100
-BattleBGM = Battle Gym Leader
+BattleBGM = Battle Gym Leader.mid
 VictoryBGM = Battle victory leader
 #-------------------------------
 [LEADER_Sabrina]
@@ -383,7 +383,7 @@ VictoryBGM = Battle victory leader
 Name = Elite Four
 Gender = Female
 BaseMoney = 100
-BattleBGM = Battle Elite
+BattleBGM = Two Planets Approach the Roche Limit.ogg
 VictoryBGM = Battle victory leader
 #-------------------------------
 [ELITEFOUR_Lance]
@@ -399,32 +399,31 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
-#-----------------------------
+#-------------------------------
 [ELITEFOUR_Mason]
 Name = Elite Four
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
-#-----------------------------
+#-------------------------------
 [ELITEFOUR_Ivan]
 Name = Elite Four
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
-#-----------------------------
+#-------------------------------
 [ELITEFOUR_Kolton]
 Name = Elite Four
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
-#-----------------------------
+#-------------------------------
 [ELITEFOUR_James]
 Name = Elite Four
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
-
