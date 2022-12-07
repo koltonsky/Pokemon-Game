@@ -103,7 +103,7 @@ MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
-[022]   # Start Town
+[022]   # 4th Gym Town
 Name = Start Town
 #-------------------------------
 [023]   # Lerucean Town
@@ -398,3 +398,6 @@ Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[093]   # Route 6
+Name = Route 6
