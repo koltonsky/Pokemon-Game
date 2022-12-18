@@ -8734,4 +8734,4 @@ Target = AllNearFoes
 FunctionCode = AttractTarget
 Flags = CanProtect,CanMirrorMove
 EffectChance = 100
-Description = A ferocious cuddling action suffocating the target with fluff. Chance to attract target.
+Description = A ferocious cuddling action suffocating the target with fluff, attracting the target
