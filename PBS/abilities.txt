@@ -1082,3 +1082,8 @@ Description = This pokemon takes no damage when hit by Fire-type moves. Instead,
 [TOXICDEBRIS]
 Name = Toxic Debris
 Description = Scatters poison spikes at the feet of the opposing team when the Pokemon takes damage from physical moves.
+#-------------------------------
+[DOUBLEUP]
+Name = Double Up
+Description = Like Parental Bond.
+#-------------------------------
