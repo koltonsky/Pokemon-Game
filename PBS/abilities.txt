@@ -1070,3 +1070,7 @@ Description = Combines Unnerve and Chilling Neigh Abilities.
 [ASONEGRIMNEIGH]
 Name = As One
 Description = Combines Unnerve and Grim Neigh Abilities.
+#-------------------------------
+[SLOWSURGE]
+Name = Slow Surge
+Description = Enables Trick Room on switch in.
