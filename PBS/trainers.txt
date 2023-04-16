@@ -67,6 +67,7 @@ Pokemon = WOOBAT,10
 [CHAMPION,Jared,1]
 LoseText = We can worry about that later
 Pokemon = HEATRAN,70
+    Moves = FIREPUNCH
     IV = 0,0,0,0,0,0
     EV = 0,0,0,0,0,0
     HP = 1

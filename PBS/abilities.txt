@@ -1074,3 +1074,11 @@ Description = Combines Unnerve and Grim Neigh Abilities.
 [SLOWSURGE]
 Name = Slow Surge
 Description = Enables Trick Room on switch in.
+#-------------------------------
+[WELLBAKEDBODY]
+Name = Well-Baked Body
+Description = This pokemon takes no damage when hit by Fire-type moves. Instead, sharply increase pokemon's Defense.
+#-------------------------------
+[TOXICDEBRIS]
+Name = Toxic Debris
+Description = Scatters poison spikes at the feet of the opposing team when the Pokemon takes damage from physical moves.
