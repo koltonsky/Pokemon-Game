@@ -46,6 +46,19 @@ HiddenAbilities = MEGALAUNCHER
 Weight = 101.1
 Pokedex = The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon.
 Generation = 6
+#-----------------------------
+[BUTTERFREE,1]
+FormName = Mega Butterfree
+MegaStone = BUTTERFRENITE
+Types = BUG,FLYING
+BaseStats = 60,45,65,120,115,90
+BaseExp = 317
+Abilities = TINTEDLENS
+HiddenAbilities = TINTEDLENS
+Weight = 32.0
+Color = Green
+Pokedex = The overwhelming power that fills its entire body causes it to turn big and green.
+Generation = 1
 #-------------------------------
 [BEEDRILL,1]
 FormName = Mega Beedrill
@@ -518,6 +531,19 @@ HiddenAbilities = MOLDBREAKER
 Weight = 305.0
 Pokedex = It zooms out of the water at Mach speeds. Even large ships caught in its path are split cleanly in two!
 Generation = 6
+#-----------------------------
+[EEVEE,1]
+FormName = Mega Eevee
+MegaStone = EEVEEITE
+Types = NORMAL
+BaseStats = 55,80,110,70,60,130
+BaseExp = 317
+Abilities = FRIENDGUARD
+HiddenAbilities = FRIENDGUARD
+Weight = 9.5
+Color = Brown
+Pokedex = The overwhelming power that fills its entire body causes it to turn super fluffy and adorable :).
+Generation = 1
 #-------------------------------
 [AERODACTYL,1]
 FormName = Mega Aerodactyl
@@ -2034,6 +2060,18 @@ FormName = Original Color
 Color = Red
 Pokedex = This gorgeous Magearna looks as it did at the time of its invention. Its luxurious decoration pleased the king's daughter.
 #-------------------------------
+[ORBEETLE,1]
+FormName = Mega Orbeetle
+MegaStone = ORBEETITE
+BaseStats = 60,45,160,90,90,160
+BaseExp = 313
+Abilities = PSYCHICSURGE
+HiddenAbilities = PSYCHICSURGE
+Height = 2.4
+Weight = 155.5
+Pokedex = In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger.
+Generation = 8
+#-------------------------------
 [CRAMORANT,1]
 FormName = Gulping Form
 Pokedex = Cramorant's gluttony led it to try to swallow an Arrokuda whole, which in turn led to Cramorant getting an Arrokuda stuck in its throat.
@@ -2314,29 +2352,3 @@ Color = Black
 Shape = Quadruped
 Category = High King
 Pokedex = Legend says that by using its power to see all events from past to future, this Pokémon saved the creatures of a forest from a meteorite strike.
-#-----------------------------
-[BUTTERFREE,1]
-FormName = Mega Butterfree
-MegaStone = BUTTERFREEITE
-Types = BUG,FLYING
-BaseStats = 60,45,65,120,115,90
-BaseExp = 317
-Abilities = TINTEDLENS
-HiddenAbilities = TINTEDLENS
-Weight = 32.0
-Color = Green
-Pokedex = The overwhelming power that fills its entire body causes it to turn big and green.
-Generation = 1
-#-----------------------------
-[EEVEE,1]
-FormName = Mega Eevee
-MegaStone = EEVEEITE
-Types = NORMAL
-BaseStats = 55,80,110,70,60,130
-BaseExp = 317
-Abilities = FRIENDGUARD
-HiddenAbilities = FRIENDGUARD
-Weight = 9.5
-Color = Brown
-Pokedex = The overwhelming power that fills its entire body causes it to turn super fluffy and adorable :).
-Generation = 1

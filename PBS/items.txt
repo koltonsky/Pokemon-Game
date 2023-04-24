@@ -2334,6 +2334,14 @@ Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Blastoise hold it, and it will be able to Mega Evolve.
 #-------------------------------
+[BUTTERFRENITE]
+Name = Butterfrenite
+NamePlural = Butterfrenite
+Pocket = 6
+Price = 0
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Butterfree hold it, and it will be able to Mega Evolve.
+#-------------------------------
 [BEEDRILLITE]
 Name = Beedrillite
 NamePlural = Beedrillites
@@ -2397,6 +2405,14 @@ Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Gyarados hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[EEVEEITE]
+Name = Eeveeite
+NamePlural = Eeveeite
+Pocket = 6
+Price = 0
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Eevee hold it, and it will be able to Mega Evolve.
 #-------------------------------
 [AERODACTYLITE]
 Name = Aerodactylite
@@ -2678,6 +2694,14 @@ Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Diancie hold it, and it will be able to Mega Evolve.
 #-------------------------------
+[ORBEETITE]
+Name = Orbeetite
+NamePlural = Orbeetites
+Pocket = 6
+Price = 0
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Orbeetle hold it, and it will be able to Mega Evolve.
+#-------------------------------
 [REDORB]
 Name = Red Orb
 NamePlural = Red Orbs
@@ -2693,22 +2717,6 @@ Pocket = 6
 Price = 10000
 SellPrice = 0
 Description = A shiny blue orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
-#-------------------------------
-[BUTTERFREEITE]
-Name = Butterfreeite
-NamePlural = Butterfreeite
-Pocket = 6
-Price = 0
-Flags = MegaStone,Fling_80
-Description = One of a variety of mysterious Mega Stones. Have Butterfree hold it, and it will be able to Mega Evolve.
-#-------------------------------
-[EEVEEITE]
-Name = Eeveeite
-NamePlural = Eeveeite
-Pocket = 6
-Price = 0
-Flags = MegaStone,Fling_80
-Description = One of a variety of mysterious Mega Stones. Have Eevee hold it, and it will be able to Mega Evolve.
 #-------------------------------
 [POTION]
 Name = Potion
