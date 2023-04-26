@@ -2336,7 +2336,7 @@ Description = One of a variety of mysterious Mega Stones. Have Blastoise hold it
 #-------------------------------
 [BUTTERFRENITE]
 Name = Butterfrenite
-NamePlural = Butterfrenite
+NamePlural = Butterfrenites
 Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
@@ -2408,7 +2408,7 @@ Description = One of a variety of mysterious Mega Stones. Have Gyarados hold it,
 #-------------------------------
 [EEVEEITE]
 Name = Eeveeite
-NamePlural = Eeveeite
+NamePlural = Eeveeites
 Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80

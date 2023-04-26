@@ -5651,6 +5651,19 @@ FunctionCode = PowerDependsOnUserStockpile
 Flags = CanProtect
 Description = The power stored using the move Stockpile is released all at once in an attack.
 #-------------------------------
+[SUPERCUDDLE]
+Name = Super Cuddle
+Type = NORMAL
+Category = Physical
+Power = 65
+Accuracy = 100
+TotalPP = 10
+Target = AllNearFoes
+FunctionCode = AttractTarget
+Flags = CanProtect,CanMirrorMove
+EffectChance = 100
+Description = A ferocious cuddling action suffocating the target with fluff, attracting the target
+#-------------------------------
 [SUPERFANG]
 Name = Super Fang
 Type = NORMAL
@@ -8722,16 +8735,3 @@ TotalPP = 40
 Target = User
 FunctionCode = RaiseUserDefense1
 Description = The user withdraws its body into its hard shell, raising its Defense stat.
-#-------------------------------
-[SUPERCUDDLE]
-Name = Super Cuddle
-Type = NORMAL
-Category = Physical
-Power = 65
-Accuracy = 100
-TotalPP = 10
-Target = AllNearFoes
-FunctionCode = AttractTarget
-Flags = CanProtect,CanMirrorMove
-EffectChance = 100
-Description = A ferocious cuddling action suffocating the target with fluff, attracting the target

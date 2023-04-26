@@ -1,7 +1,7 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #----------RIVAL------------------
 [POKEMONTRAINER_May,Emily,1]
-LoseText = I'm not really awake yet
+LoseText = I'm not really awake yet.
 Pokemon = EEVEE,5
     AbilityIndex = 1
     Nature = TIMID
@@ -616,6 +616,7 @@ Items = MEGARING
 LoseText = A good battle indeed!
 Pokemon = ORBEETLE,80
     Gender = female
+    Shiny = yes
     Moves = STICKYWEB,CALMMIND,BUGBUZZ,EXPANDINGFORCE
     AbilityIndex = 1
     Item = ORBEETITE
@@ -668,6 +669,7 @@ Items = MEGARING
 LoseText = A good battle indeed!
 Pokemon = ORBEETLE,80
     Gender = female
+    Shiny = yes
     Moves = STICKYWEB,CALMMIND,BUGBUZZ,EXPANDINGFORCE
     AbilityIndex = 1
     Item = ORBEETITE
@@ -717,7 +719,7 @@ Pokemon = DEOXYS,80
 #-------------------------------
 [ELITEFOUR_Agatha,Ivan Grass SCRAP]
 Items = MEGARING
-LoseText = How did I... get here?
+LoseText = Wait... How did I even... get here?
 Pokemon = DRAPION,80
     Gender = male
     Moves = TOXICSPIKES,SUBSTITUTE,KNOCKOFF,WHIRLWIND
