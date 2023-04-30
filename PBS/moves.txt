@@ -6153,6 +6153,16 @@ Target = User
 FunctionCode = UseRandomMove
 Description = The user waggles a finger and stimulates its brain into randomly using nearly any move.
 #-------------------------------
+[METRONOME2]
+Name = Metronome
+Type = NORMAL
+Category = Status
+Accuracy = 0
+TotalPP = 10
+Target = User
+FunctionCode = UseRandomMoveOHKO
+Description = The user waggles a finger and stimulates its brain into randomly using nearly any move.
+#-------------------------------
 [MILKDRINK]
 Name = Milk Drink
 Type = NORMAL

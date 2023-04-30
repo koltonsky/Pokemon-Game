@@ -158,12 +158,12 @@ Pokemon = AZUMARILL,24
     EV = 0,252,0,252,0,0
 Pokemon = CLEFAIRY,24
     Shiny = yes
-    Moves = METRONOME
-    AbilityIndex = 1
+    Moves = METRONOME2
+    Ability = NOGUARD
     Item = EVIOLITE
-    Nature = SASSY
+    Nature = TIMID
     IV = 31,31,31,31,31,31
-    EV = 252,0,0,0,0,252
+    EV = 252,0,0,252,0,0
 #-------------------------------
 [LEADER_Brock,Miranda]
 LoseText = Very good.
