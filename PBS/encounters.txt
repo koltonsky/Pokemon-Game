@@ -50,8 +50,8 @@ LandNight,21
 Land,21
     50,RATTATA,12,15
     30,POOCHYENA,11,15
-    10,SHINX,10,11
     10,SHINX,10,12
+    10,SHINX,10,11
 Water,2
     60,MAGIKARP,7,10
     30,GOLDEEN,11,14
@@ -83,8 +83,8 @@ Land,21
     20,CATERPIE,10
     20,SUNKERN,12
     20,WEEDLE,10
-    15,PIDGEY,12,14
     15,PIDGEY,10,14
+    15,PIDGEY,12,14
     5,KAKUNA,10
     5,METAPOD,10
 LandNight,21
@@ -184,19 +184,19 @@ RockSmash,50
 #-------------------------------
 [049] # Rock Cave 1F
 Cave,5
-    20,MAGNETON,14,17
     20,MAGNETON,14,16
-    20,NOSEPASS,13,14
+    20,MAGNETON,14,17
     20,NOSEPASS,14,15
+    20,NOSEPASS,13,14
     10,GEODUDE,13,15
     10,MAWILE,14,16
 #-------------------------------
 [050] # Rock Cave B1F
 Cave,5
-    20,MAGNETON,14,17
     20,MAGNETON,14,16
-    20,NOSEPASS,13,14
+    20,MAGNETON,14,17
     20,NOSEPASS,14,15
+    20,NOSEPASS,13,14
     10,BURMY,14,16
     10,GEODUDE,13,15
 #-------------------------------
@@ -224,8 +224,8 @@ Land,21
     20,RHYHORN,16,18
     10,AIPOM,14,17
     10,GIRAFARIG,16,17
-    10,VENONAT,15,18
     10,VENONAT,15,17
+    10,VENONAT,15,18
     5,HERACROSS,15,17
     5,TAUROS,15,16
     4,PINSIR,16
@@ -256,13 +256,13 @@ Land,21
     20,MAREEP,16,18
     20,ODDISH,15,17
     13,BONSLY,14,16
-    10,DITTO,16,18
     10,DITTO,15,17
+    10,DITTO,16,18
     10,LOTAD,15,18
     10,LOTAD,15,17
     5,BONSLY,14,17
-    1,BONSLY,15
     1,BONSLY,15,16
+    1,BONSLY,15
 Water,2
     60,TENTACOOL,14,19
     30,MANTYKE,15,16
@@ -309,7 +309,7 @@ Land,21
     4,HOPPIP,3,4
     1,DEWPIDER,3,4
 #-------------------------------
-[085] # Route2 - W
+[085] # Route 2
 Land,21
     25,BIDOOF,4,6
     25,RATTATA,4,6
@@ -337,7 +337,7 @@ Cave,21
     4,NOSEPASS,5,7
     1,MAKUHITA,5,7
 #-------------------------------
-[089] # Route2 - E
+[089] # Route 3
 Land,21
     25,NIDORANfE,8,10
     25,NIDORANmA,8,10
@@ -349,12 +349,11 @@ Land,21
 [093] # Route 4
 Land,21
     35,SEEDOT,12,14
-    5,WINGULL,12,14
-    10,STUNKY,12,14
     10,GULPIN,12,14
-    20,MINUN,12,14
-    20,PLUSLE,12,14
+    10,STUNKY,12,14
+    20,SUNKERN,12,14
+    20,PACHIRISU,12,14
+    5,EXEGGCUTE,12,14
 OldRod
-    90,REMORAID,5,15
-    1,WOOPER,8,10
-    9,WAILMER,8,12
+    95,MAGIKARP,5,15
+    5,CHINCHOU,8,10

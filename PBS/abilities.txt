@@ -1087,3 +1087,6 @@ Description = Scatters poison spikes at the feet of the opposing team when the P
 Name = Double Up
 Description = Like Parental Bond.
 #-------------------------------
+[ANNOYANCE]
+Name = Annoyance
+Description = Its attacks are critical hits when it is confused.
