@@ -4,8 +4,8 @@
 41,North,0,40,South,0
 # Route 5 (41) - Route 6 Cycling Road (45)
 41,South,6,45,North,0
-# Route 2 (85) - 1st Gym Town (90)
-85,75,0,90,0,126
+# 1st Gym Town (90) - Route5 (96)
+90,36,0,96,0,73
 # Prof Town (80) - Route 2 (85)
 80,East,0,85,West,18
 # Route1 (79) - Prof Town (80)
@@ -54,9 +54,7 @@
 21,East,77,47,West,0
 # Battle Frontier (52) - Route 7 (47)
 52,West,0,47,East,8
-# 1st Gym Town (90) - Route 3 (89)
-90,0,46,89,14,0
-# 1st Gym Town (90) - Route 4 (93)
-90,0,0,93,46,10
-# 1st Gym Town (90) - Route5 (96)
-90,36,0,96,0,73
+# Route5 (96) - Route 3 (89)
+96,0,119,89,50,0
+# Route5 (96) - Route 4 (93)
+96,0,63,93,82,0
