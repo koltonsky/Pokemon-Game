@@ -26,20 +26,12 @@
 21,East,0,23,West,1
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
-# 4th Gym Town (22) - Route1 (79)
-22,East,5,79,West,0
-# Bird Sanctuary (86) - 4th Gym Town (22)
-86,East,0,22,West,5
 # Lerucean Town (23) - Route 3 (31)
 23,North,0,31,South,32
 # Route 3 (31) - Ingido Plateau outside (35)
 31,West,0,35,East,10
 # Ingido Plateau outside (35) - Route 4 (39)
 35,West,11,39,East,0
-# Route 4 (39) - Route1 (79)
-39,South,244,79,North,0
-# Route 4 (39) - Bird Sanctuary (86)
-39,South,163,86,North,0
 # Route 5 (41) - Route 4 Cycling Road (40)
 41,North,0,40,South,0
 # Route 5 (41) - Route 6 Cycling Road (45)
@@ -48,13 +40,19 @@
 52,West,0,47,East,8
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Route1 (79) - Prof Town (80)
-79,East,20,80,West,0
-# Prof Town (80) - Route 2 (85)
-80,East,0,85,West,18
-# Route5 (96) - 1st Gym Town (90)
-96,0,73,90,36,0
-# 1st Gym Town (90) - Route 3 (89)
-90,0,46,89,14,0
-# 1st Gym Town (90) - Route 4 (93)
-90,0,0,93,46,10
+# Route1 (79) - 4th Gym Town (22)
+79,0,0,22,42,5
+# 4th Gym Town (22) - Prof Town (80)
+22,84,25,80,0,0
+# 4th Gym Town (22) - Route 3 (89)
+22,162,0,89,0,85
+# 4th Gym Town (22) - Route5 (96)
+22,212,0,96,0,204
+# 4th Gym Town (22) - 1st Gym Town (90)
+22,176,0,90,0,131
+# 4th Gym Town (22) - Route 4 (93)
+22,130,0,93,0,141
+# 4th Gym Town (22) - Route 2 (85)
+22,136,7,85,0,0
+# 4th Gym Town (22) - Bird Sanctuary (86)
+22,0,5,86,34,0
