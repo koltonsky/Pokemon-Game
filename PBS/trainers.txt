@@ -74,6 +74,56 @@ Pokemon = HEATRAN,70
 #--------------------------------------------
 #------------GYM LEADERS----------------------
 #-------------------------------
+
+#---------Gym 1 Trainers-------
+[CAMPER,Baby]
+LoseText = We can worry about that later
+Pokemon = DIGLETT,12
+    Form = 1
+    AbilityIndex = 0
+    Moves = SANDSTORM,MUDSLAP,ASTONISH,STEALTHROCK
+    Item = BRIGHTPOWDER
+    Nature = NAIVE
+    IV = 15,15,15,15,15,15
+Pokemon = FERROSEED,12
+    AbilityIndex = 0
+    Moves = LEECHSEED,TOXIC,SANDSTORM,BULLETSEED
+    Item = ROCKYHELMET
+    Nature = IMPISH
+    IV = 15,15,15,15,15,15
+#--------------------------------
+[CAMPER,Charlie]
+LoseText = We can worry about that later
+Pokemon = MAGNEMITE,12
+    Ability = STURDY
+    Moves = THUNDERWAVE,ELECTROWEB,HIDDENPOWER,SUPERSONIC
+    Item = BERRYJUICE
+    Nature = BOLD
+    IV = 15,14,15,15,14,15
+Pokemon = BRONZOR,12
+    Ability = LEVITATE
+    Moves = PSYWAVE,CONFUSERAY,PAYBACK,HYPNOSIS
+    Item = COLBURBERRY
+    Nature = BOLD
+    IV = 15,15,15,15,15,15
+#--------------------------------
+[LEADER_Brock,Laura]
+LoseText = Very good.
+Pokemon = ARON,16
+    Gender = male
+    Moves = STEALTHROCK,METALCLAW,ROCKTOMB,ROAR
+    AbilityIndex = 0
+    Item = BERRYJUICE
+    Nature = IMPISH
+    IV = 31,31,31,31,31,31
+Pokemon = PAWNIARD,16
+    Gender = male
+    Moves = BEATUP,METALCLAW,GUILLOTINE,LASERFOCUS
+    AbilityIndex = 0
+    Item = KINGSROCK
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+#------------------------------
 [LEADER_Brock,Laura]
 LoseText = Very good.
 Pokemon = ARON,16
@@ -119,6 +169,59 @@ Pokemon = HONEDGE,16
     Nature = ADAMANT
     IV = 31,31,31,31,31,31
 #-------------------------------
+#---------Gym 2----------------
+#-----------------------------
+[CAMPER,John1]
+LoseText = We can worry about that later
+Pokemon = TOGETIC,24
+    Ability = SERENEGRACE
+    Moves = THUNDERWAVE,WISH,WATERPULSE,ANCIENTPOWER
+    Item = EVIOLITE
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+Pokemon = SHIINOTIC,24
+    Ability = EFFECTSPORE
+    Moves = SPORE,DRAININGKISS,GIGADRAIN,INGRAIN
+    Item = LEFTOVERS
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+#-----------------------------
+[CAMPER,John2]
+LoseText = We can worry about that later
+Pokemon = IMPIDIMP,24
+    Ability = PRANKSTER
+    Moves = FAKEOUT,REFLECT,LIGHTSCREEN,DRAININGKISS
+    Item = LIGHTCLAY
+    Nature = SASSY
+    IV = 31,31,31,31,31,31
+Pokemon = GRANBULL,24
+    Ability = INTIMIDATE
+    Moves = BRICKBREAK,THUNDERFANG,FIREFANG,REST
+    Item = CHESTOBERRY
+    Nature = IMPISH
+    IV = 31,31,31,31,31,31
+Pokemon = DEDENNE,24
+    Ability = CHEEKPOUCH
+    Moves = NUZZLE,PARABOLICCHARGE,SUBSTITUTE,SWIFT
+    Item = PETAYABERRY
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+#-----------------------------
+[CAMPER,John3]
+LoseText = We can worry about that later
+Pokemon = AROMATISSE,24
+    Ability = HEALER
+    Moves = PSYBEAM,HIDDENPOWER,DRAININGKISS,ROUND
+    Item = THROATSPRAY
+    Nature = BOLD
+    IV = 31,30,31,31,30,31
+Pokemon = SLURPUFF,24
+    Ability = UNBURDEN
+    Moves = DRAININGKISS,YAWN,HELPINGHAND,ROUND
+    Item = THROATSPRAY
+    Nature = CALM
+    IV = 31,31,31,31,31,31
+#---------------------------------
 [LEADER_Brock,John]
 LoseText = Very good.
 Pokemon = WHIMSICOTT,24
@@ -140,7 +243,7 @@ Pokemon = COMFEY,24
     AbilityIndex = 1
     Item = LIFEORB
     Nature = MODEST
-    IV = 31,31,31,31,31,31
+    IV = 31,31,31,31,30,30
     EV = 252,0,0,0,252,0
 Pokemon = WIGGLYTUFF,24
     Moves = GYROBALL,SELFDESTRUCT,DRAININGKISS,COPYCAT
@@ -165,6 +268,110 @@ Pokemon = CLEFAIRY,24
     IV = 31,31,31,31,31,31
     EV = 252,0,0,252,0,0
 #-------------------------------
+#---------Gym 3----------------
+#-----------------------------
+[CAMPER,MIRANDA1]
+LoseText = We can worry about that later
+Pokemon = ROSELIA,36
+    Ability = POISONPOINT
+    Moves = LEECHSEED,TOXICSPIKES,SLUDGEBOMB,GIGADRAIN
+    Item = EVIOLITE
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+Pokemon = SUNFLORA,36
+    Ability = CHLOROPHYLL
+    Moves = GROWTH,SOLARBEAM,EARTHPOWER,WEATHERBALL
+    Item = TANGABERRY
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = VENUSAUR,36
+    Ability = CHLOROPHYLL
+    Moves = GROWTH,GIGADRAIN,VENOSHOCK,EARTHPOWER
+    Item = OCCABERRY
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = SHIFTRY,36
+    Ability = CHLOROPHYLL
+    Moves = SUCKERPUNCH,HEATWAVE,LEAFBLADE,KNOCKOFF
+    Item = LIFEORB
+    Nature = NAIVE
+    IV = 31,31,31,31,31,31
+#-----------------------------
+[CAMPER,MIRANDA2]
+LoseText = We can worry about that later
+Pokemon = CHERRIM,36
+    Ability = FLOWERGIFT
+    Moves = HELPINGHAND,DAZZLINGGLEAM,WEATHERBALL,ENERGYBALL
+    Item = FOCUSSASH
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = JUMPLUFF,36
+    Ability = CHLOROPHYLL
+    Moves = ACROBATICS,LEAFBLADE,SLEEPPOWDER,SWORDSDANCE
+    Item = FLYINGGEM
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = EXEGGUTOR,36
+    Ability = CHLOROPHYLL
+    Moves = SOLARBEAM,PSYSHOCK,WEATHERBALL,LEAFSTORM
+    Item = WHITEHERB
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = TROPIUS,36
+    Ability = CHLOROPHYLL
+    Moves = LEAFBLADE,DRAGONHAMMER,BODYSLAM,SLEEPPOWDER
+    Item = LIFEORB
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-----------------------------
+[CAMPER,MIRANDA3]
+LoseText = We can worry about that later
+Pokemon = RILLABOOM,36
+    Ability = GRASSYSURGE
+    Moves = FAKEOUT,KNOCKOFF,UTURN,DRUMBEATING
+    Item = ASSAULTVEST
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = GOGOAT,36
+    Ability = GRASSYPELT
+    Moves = BODYPRESS,BULKUP,HORNLEECH,BULLDOZE
+    Item = LEFTOVERS
+    Nature = IMPISH
+    IV = 31,31,31,31,31,31
+Pokemon = GOURGEIST,36
+    Ability = FRISK
+    Moves = EXPLOSION,SHADOWSNEAK,LEAFBLADE,DESTINBOND
+    Item = CUSTAPBERRY
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = SCEPTILE,36
+    Ability = UNBURDEN
+    Moves = PURSUIT,DUALCHOP,XSCISSOR,LEAFBLADE
+    Item = GRASSYSEED
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-----------------------------
+[CAMPER,MIRANDA4]
+LoseText = We can worry about that later
+Pokemon = SAWSBUCK,36
+    Ability = SERENEGRACE
+    Moves = BOUNCE,BODYSLAM,HORNLEECH,JUMPKICK
+    Item = POWERHERB
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = LURANTIS,36
+    Ability = CONTRARY
+    Moves = SUPERPOWER,LEAFBLADE,LEECHLIFE,BRICKBREAK
+    Item = OCCABERRY
+    Nature = IMPISH
+    IV = 31,31,31,31,31,31
+Pokemon = TSAREENA,36
+    Ability = QUEENLYMAJESTY
+    Moves = TROPKICK,LOWSWEEP,TEETERDANCE,SYNTHESIS
+    Item = BRIGHTPOWDER
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+#----------------------------
 [LEADER_Brock,Miranda]
 LoseText = Very good.
 Pokemon = TORTERRA,36
@@ -251,8 +458,8 @@ Pokemon = TYPHLOSION,36
     Moves = ERUPTION,EARTHPOWER,FOCUSBLAST,HIDDENPOWER
     AbilityIndex = 2
     Item = CHOICESCARF
-    Nature = ADAMANT
-    IV = 31,31,31,31,31,31
+    Nature = TIMID
+    IV = 31,31,31,31,30,30
     EV = 0,0,0,252,252,0
 #-------------------------------
 [CAMPER,Liam]
