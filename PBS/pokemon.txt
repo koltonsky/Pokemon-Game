@@ -4102,7 +4102,7 @@ Evolutions = QUILAVA,Level,14
 #-------------------------------
 [QUILAVA]
 Name = Quilava
-Types = FIRE
+Types = FIRE,GROUND
 BaseStats = 58,64,58,80,80,65
 GenderRatio = FemaleOneEighth
 GrowthRate = Parabolic
