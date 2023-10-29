@@ -2310,6 +2310,14 @@ Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Venusaur hold it, and it will be able to Mega Evolve.
 #-------------------------------
+[VENUSAURITEG]
+Name = Venusaurite G
+NamePlural = Venusaurite Gs
+Pocket = 6
+Price = 0
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Venusaur hold it, and it will be able to Mega Evolve.
+#-------------------------------
 [CHARIZARDITEX]
 Name = Charizardite X
 NamePlural = Charizardite Xs
@@ -2329,6 +2337,14 @@ Description = One of a variety of mysterious Mega Stones. Have Charizard hold it
 [BLASTOISINITE]
 Name = Blastoisinite
 NamePlural = Blastoisinites
+Pocket = 6
+Price = 0
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Blastoise hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[BLASTOISINITEG]
+Name = Blastoisinite G
+NamePlural = Blastoisinite Gs
 Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
@@ -2366,6 +2382,14 @@ Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Alakazam hold it, and it will be able to Mega Evolve.
 #-------------------------------
+[MACHAMPITE]
+Name = Machampite
+NamePlural = Machampites
+Pocket = 6
+Price = 0
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Machamp hold it, and it will be able to Mega Evolve.
+#-------------------------------
 [SLOWBRONITE]
 Name = Slowbronite
 NamePlural = Slowbronites
@@ -2381,6 +2405,22 @@ Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Gengar hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[GENGARITEG]
+Name = Gengarite G
+NamePlural = Gengarite Gs
+Pocket = 6
+Price = 0
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Gengar hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[KINGLERITE]
+Name = Kinglerite
+NamePlural = Kinglerites
+Pocket = 6
+Price = 0
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Kingler hold it, and it will be able to Mega Evolve.
 #-------------------------------
 [KANGASKHANITE]
 Name = Kangaskhanite
@@ -2701,6 +2741,14 @@ Pocket = 6
 Price = 0
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Orbeetle hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[GRIMMSNARLITE]
+Name = Grimmsnarlite
+NamePlural = Grimmsnarlites
+Pocket = 6
+Price = 0
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Grimmsnarl hold it, and it will be able to Mega Evolve.
 #-------------------------------
 [REDORB]
 Name = Red Orb

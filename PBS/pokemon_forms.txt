@@ -12,6 +12,18 @@ Weight = 155.5
 Pokedex = In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger.
 Generation = 6
 #-------------------------------
+[VENUSAUR,2]
+FormName = Mega Venusaur G
+MegaStone = VENUSAURITEG
+BaseStats = 80,122,98,80,130,115
+BaseExp = 313
+Abilities = CHLOROPHYLL
+HiddenAbilities = CHLOROPHYLL
+Height = 2.4
+Weight = 172.5
+Pokedex = The flower has grown massive from Mega Evolution, allowing it to absorb mass amounts of sunlight to convert into power.
+Generation = 8
+#-------------------------------
 [CHARIZARD,1]
 FormName = Mega Charizard X
 MegaStone = CHARIZARDITEX
@@ -46,6 +58,17 @@ HiddenAbilities = MEGALAUNCHER
 Weight = 101.1
 Pokedex = The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon.
 Generation = 6
+#-------------------------------
+[BLASTOISE,2]
+FormName = Mega Blastoise G
+MegaStone = BLASTOISINITEG
+BaseStats = 79,103,130,70,130,118
+BaseExp = 315
+Abilities = DRIZZLE
+HiddenAbilities = DRIZZLE
+Weight = 127.3
+Pokedex = It's not good at precision shots, so it just sprays in random directions with its 31 mini-cannons when it attacks.
+Generation = 8
 #-----------------------------
 [BUTTERFREE,1]
 FormName = Mega Butterfree
@@ -271,6 +294,16 @@ Height = 1.2
 Pokedex = Having traded away its muscles, Alakazam's true power has been unleashed. With its psychic powers, it can foresee all things.
 Generation = 6
 #-------------------------------
+[MACHAMP,1]
+FormName = Mega Machamp
+MegaStone = MACHAMPITE
+BaseStats = 90,160,110,85,65,95
+BaseExp = 300
+Abilities = DOUBLEUP
+HiddenAbilities = DOUBLEUP
+Pokedex = Mega Evolution has enhanced its stamina. Its punches leave the impact spot and its fists smoldering.
+Generation = 8
+#-------------------------------
 [GEODUDE,1]
 FormName = Alolan
 Types = ROCK,ELECTRIC
@@ -436,6 +469,28 @@ Height = 1.4
 Pokedex = The energy of Mega Evolution awakened it. It sinks into another dimension, where it keeps a patient watch for its chance to attack.
 Generation = 6
 #-------------------------------
+[GENGAR,2]
+FormName = Mega Gengar G
+MegaStone = GENGARITEG
+BaseStats = 60,75,115,110,130,110
+BaseExp = 300
+Abilities = BADDREAMS
+HiddenAbilities = BADDREAMS
+Height = 1.7
+Pokedex = Those foolish enough to stare at the hypnotic pattern in its mouth succumb to nightmares formed of cursed Mega Evolution energy.
+Generation = 8
+#-------------------------------
+[KINGLER,1]
+FormName = Mega Kingler
+MegaStone = Kinglerite
+BaseStats = 55,150,130,110,50,80
+BaseExp = 300
+Abilities = TOUGHCLAWS
+HiddenAbilities = TOUGHCLAWS
+Height = 1.8
+Pokedex = Most of the Mega Evolution energy has gone into its left pincer, allowing it to crush anything with ease.
+Generation = 8
+#-------------------------------
 [EXEGGUTOR,1]
 FormName = Alolan
 Types = GRASS,DRAGON
@@ -541,7 +596,6 @@ BaseExp = 317
 Abilities = FRIENDGUARD
 HiddenAbilities = FRIENDGUARD
 Weight = 9.5
-Color = Brown
 Pokedex = The overwhelming power that fills its entire body causes it to turn super fluffy and adorable :).
 Generation = 1
 #-------------------------------
@@ -2095,6 +2149,17 @@ Evolutions = POLTEAGEIST,Item,CHIPPEDPOT
 [POLTEAGEIST,1]
 FormName = Antique Form
 Pokedex = Trainers Polteageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its tea.
+#-------------------------------
+[GRIMMSNARL,1]
+FormName = Mega Grimmsnarl
+MegaStone = GRIMMSNARLITE
+BaseStats = 95,140,90,90,95,100
+BaseExp = 300
+Abilities = MOXIE
+HiddenAbilities = MOXIE
+Height = 1.8
+Pokedex = Sprouting even more hair due to Mega Evolution, it strengthens its physique to deliver powerful blows at high speeds.
+Generation = 8
 #-------------------------------
 [ALCREMIE,7]
 FormName = Ruby Cream
