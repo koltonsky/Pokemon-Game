@@ -1073,7 +1073,7 @@ Description = Combines Unnerve and Grim Neigh Abilities.
 #-------------------------------
 [SLOWSURGE]
 Name = Slow Surge
-Description = Enables Trick Room on switch in.
+Description = The Pokemon enables Trick Room if it appears in battle.
 #-------------------------------
 [WELLBAKEDBODY]
 Name = Well-Baked Body
