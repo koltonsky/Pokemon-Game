@@ -40,10 +40,10 @@
 52,West,0,47,East,8
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# 4th Gym Town (22) - Filler Town 1 (97)
-22,174,0,97,0,220
-# Filler Town 1 (97) - Route5 (96)
-97,38,16,96,0,0
+# Route5 (96) - Filler Town 1 (97)
+96,0,0,97,38,16
+# Filler Town 1 (97) - 4th Gym Town (22)
+97,0,220,22,174,0
 # Filler Town 1 (97) - Route1 (79)
 97,0,225,79,132,0
 # Filler Town 1 (97) - Prof Town (80)
@@ -58,3 +58,5 @@
 97,2,89,90,0,0
 # Filler Town 1 (97) - Route 4 (93)
 97,0,79,93,44,0
+# Filler Town 1 (97) - F1 Graveyard (100)
+97,3,0,100,0,35

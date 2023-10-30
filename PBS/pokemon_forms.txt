@@ -482,7 +482,7 @@ Generation = 8
 #-------------------------------
 [KINGLER,1]
 FormName = Mega Kingler
-MegaStone = Kinglerite
+MegaStone = KINGLERITE
 BaseStats = 55,150,130,110,50,80
 BaseExp = 300
 Abilities = TOUGHCLAWS
