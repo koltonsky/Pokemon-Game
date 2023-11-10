@@ -40,23 +40,27 @@
 52,West,0,47,East,8
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Route5 (96) - Filler Town 1 (97)
-96,0,0,97,38,16
-# Filler Town 1 (97) - 4th Gym Town (22)
-97,0,220,22,174,0
-# Filler Town 1 (97) - Route1 (79)
-97,0,225,79,132,0
-# Filler Town 1 (97) - Prof Town (80)
-97,0,245,80,90,0
-# Filler Town 1 (97) - Route 2 (85)
-97,0,227,85,38,0
-# Filler Town 1 (97) - Bird Sanctuary (86)
-97,0,225,86,208,0
-# Filler Town 1 (97) - Route 3 (89)
-97,0,135,89,12,0
-# Filler Town 1 (97) - 1st Gym Town (90)
-97,2,89,90,0,0
-# Filler Town 1 (97) - Route 4 (93)
-97,0,79,93,44,0
-# Filler Town 1 (97) - F1 Graveyard (100)
-97,3,0,100,0,35
+# Prof Town (80) - 2nd Gym Town (95)
+80,22,0,95,0,208
+# 2nd Gym Town (95) - 4th Gym Town (22)
+95,0,183,22,106,0
+# 2nd Gym Town (95) - Route 1 (79)
+95,0,188,79,64,0
+# 2nd Gym Town (95) - Filler Town 1 (97)
+95,68,0,97,0,37
+# 2nd Gym Town (95) - Route 2 (85)
+95,30,190,85,0,0
+# 2nd Gym Town (95) - Bird Sanctuary (86)
+95,0,188,86,140,0
+# 2nd Gym Town (95) - Route 3 (89)
+95,56,98,89,0,0
+# 2nd Gym Town (95) - 1st Gym Town (90)
+95,70,52,90,0,0
+# 2nd Gym Town (95) - Route 4 (93)
+95,24,42,93,0,0
+# 2nd Gym Town (95) - Route 5 (96)
+95,106,0,96,0,21
+# 2nd Gym Town (95) - F1 Graveyard (100)
+95,71,0,100,0,72
+# 2nd Gym Town (95) - Route 6 (102)
+95,0,0,102,14,34
