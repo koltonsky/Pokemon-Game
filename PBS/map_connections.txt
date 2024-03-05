@@ -26,6 +26,10 @@
 21,East,0,23,West,1
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
+# Route 1 (79) - 4th Gym Town (22)
+79,West,0,22,East,5
+# Bird Sanctuary (86) - 4th Gym Town (22)
+86,East,0,22,West,5
 # Lerucean Town (23) - Route 3 (31)
 23,North,0,31,South,32
 # Route 3 (31) - Ingido Plateau outside (35)
@@ -40,27 +44,25 @@
 52,West,0,47,East,8
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# 2nd Gym Town (95) - Route 6 (102)
-95,0,0,102,14,36
-# Route 6 (102) - 4th Gym Town (22)
-102,0,219,22,92,0
-# Route 6 (102) - Route 1 (79)
-102,0,224,79,50,0
-# Route 6 (102) - Prof Town (80)
-102,0,244,80,8,0
-# Route 6 (102) - Route 2 (85)
-102,44,226,85,0,0
-# Route 6 (102) - Bird Sanctuary (86)
-102,0,224,86,126,0
-# Route 6 (102) - Route 3 (89)
-102,70,134,89,0,0
-# Route 6 (102) - 1st Gym Town (90)
-102,84,88,90,0,0
-# Route 6 (102) - Route 4 (93)
-102,38,78,93,0,0
-# Route 6 (102) - Filler Town 1 (97)
-102,82,0,97,0,1
-# Route 6 (102) - Route 5 (96)
-102,120,15,96,0,0
-# Route 6 (102) - F1 Graveyard (100)
-102,85,0,100,0,36
+# Prof Town (80) - Route 1 (79)
+80,West,0,79,East,20
+# Route 2 (85) - Prof Town (80)
+85,West,18,80,East,0
+# Route 5 (96) - Filler Town 1 (97)
+96,West,0,97,East,8
+# F1 Graveyard (100) - Filler Town 1 (97)
+100,South,0,97,North,1
+# 1st Gym Town (90) - Route 5 (96)
+90,East,0,96,West,79
+# Route 3 (89) - Route 5 (96)
+89,North,40,96,South,0
+# Route 3 (89) - 1st Gym Town (90)
+89,North,0,90,South,0
+# Route 4 (93) - 1st Gym Town (90)
+93,East,8,90,West,0
+# Route 4 (93) - Route 3 (89)
+93,East,56,89,West,0
+# 2nd Gym Town (95) - Route 4 (93)
+95,South,36,93,North,0
+# Route 6 (102) - 2nd Gym Town (95)
+102,South,2,95,North,0

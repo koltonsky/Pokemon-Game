@@ -399,11 +399,20 @@ Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
+[079]   # Route 1
+Name = Route 1
+#-------------------------------
 [080]   # Prof Town
 Name = Prof Town
+#-------------------------------
+[089]   # Route 3
+Name = Route 3
 #-------------------------------
 [093]   # Route 4
 Name = Route 4
 #-------------------------------
 [096]   # Route 5
 Name = Route 5
+#-------------------------------
+[102]   # Route 6
+Name = Route 6
